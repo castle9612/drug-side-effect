@@ -6,6 +6,26 @@
 
 This study investigated whether adverse drug reactions can be predicted by combining molecular structure information (`SMILES`) with target action features. The work progressed from early MLP baselines to AutoEncoder-based compression, Tanimoto similarity features, past-drug splits, LightGBM and XGBoost comparisons, and a two-tower fusion model. This repository-level overview summarizes the final comparison reported in the presentation dated February 6, 2024, together with the preserved experiment logs.
 
+## Summary
+
+* SMILES 기반 drug representation과 target action feature를 활용한 drug side-effect prediction
+* MLP, LightGBM, XGBoost, Two-Tower 등 다양한 모델 비교 실험 수행
+* Best F1: 0.6711 / Accuracy: 0.7273
+* Tree 기반 모델이 전반적으로 더 안정적인 성능을 보임
+
+→ feature 조합과 모델 선택에 따른 성능 차이를 분석하는 데 초점
+
+## Start Point
+
+처음 보는 경우 아래 순서로 확인하는 것을 권장함
+
+* `drug-side-effect-core-modeling/` → 전체 pipeline 및 기본 구조
+* `drug-side-effect-xgboost-comparison/` → 최고 성능 모델 실험
+* `drug-side-effect-research-assets/` → 실험 결과 및 정리 자료
+
+→ 전체 흐름은 core-modeling 기준으로 보면 됨
+
+
 ## 연구 배경
 
 약물 부작용 예측은 신약 개발과 약물 안전성 평가에서 중요한 문제이다. 본 연구에서는 화학 구조만으로는 설명되지 않는 부작용 신호를 보완하기 위해, 약물의 target action 정보를 함께 사용하였을 때 예측 성능이 어떻게 달라지는지를 확인하고자 하였다. 연구 전반에서는 구조 기반 특징, target 기반 특징, similarity 기반 특징, 그리고 이들의 결합 방식이 성능에 미치는 영향을 단계적으로 비교하였다.
@@ -115,6 +135,18 @@ github_repos/
 ├── drug-side-effect-experiment-archive/
 └── drug-side-effect-research-assets/
 ```
+
+---
+
+## Reproducibility
+
+본 프로젝트는 연구 및 실험 중심으로 진행되어 일부 데이터 및 환경이 완전히 자동화되어 있지는 않음
+
+재현 시 필요한 요소:
+* RDKit 기반 SMILES 처리 환경
+* 외부 drug / target action 데이터
+* scikit-learn, XGBoost, LightGBM
+
 
 ## Author
 
