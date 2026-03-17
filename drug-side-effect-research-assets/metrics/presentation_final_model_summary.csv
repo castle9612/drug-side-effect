@@ -1,0 +1,7 @@
+model,accuracy,f1_score,source,notes
+mlp-fpmatrix_09_25,0.671875,0.0,240206.pptx,structure-based early MLP baseline
+mlp-target_action_10_01,0.6931491613388061,0.0,240206.pptx,target-action early MLP baseline
+Past-lgb-AE-5fold(6runs),0.6287878787,0.6711409,240206.pptx,best F1-score in presentation summary
+lgb-target-action-tani-past-kfold,0.7272727272727273,0.5714285714285715,240206.pptx,best accuracy in presentation summary
+Xg-target-action-tani-past-kfold,0.6666666666666666,0.45,240206.pptx,representative XGBoost comparison model
+Mlp-twotower-5fold-tani,0.7083,0.5806451612903226,240206.pptx,two-tower fusion model

@@ -1,6 +1,6 @@
 # Drug Side Effect Experiment Archive
 
-이 저장소는 연구 초기에 시도한 여러 프로토타입, 중간 산출물, 발표 시기 작업 파일을 보관한 아카이브이다. 정제된 메인 레포와 달리, 연구 과정의 시행착오와 아이디어 변화를 보여주는 작업 공간에 가깝다.
+이 저장소는 연구 초기에 시도한 여러 프로토타입, 중간 산출물, 발표 시기 작업 파일을 보관한 아카이브이다. 정제된 메인 레포와 달리, 연구 과정의 시행착오와 아이디어 변화를 보여주는 작업 공간에 가깝다. 특히 2024년 2월 6일 발표자료에는 당시 최종 모델 비교표가 정리되어 있어, 루트 README의 핵심 결과 요약 기준으로 활용하였다.
 
 ## English Summary
 
@@ -22,3 +22,4 @@ This repository is an archive of exploratory prototypes, intermediate outputs, a
 | `model.py` | 초기 모델 프로토타입 |
 | `rf_0417.py` | 초기 RF 관련 코드 |
 | `xgboost_ae.py` | AE 기반 XGBoost 시도 |
+| `240206.pptx` | 발표자료 기준 최종 모델 비교표 |
