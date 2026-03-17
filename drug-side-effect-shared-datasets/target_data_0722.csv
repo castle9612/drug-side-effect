@@ -1,0 +1,1017 @@
+drug_id,target_nm
+DB00833,Penicillin-binding protein 3
+DB00833,Penicillin-binding protein 1A
+DB00999,Calcium-activated potassium channel subunit alpha-1
+DB00999,Solute carrier family 12 member 3
+DB00485,Penicillin-binding protein 3
+DB00485,Penicillin-binding protein 3
+DB00485,Penicillin-binding protein 1A
+DB00485,Penicillin-binding protein 1b
+DB00485,Penicillin-binding protein 2a
+DB00485,Penicillin-binding protein 2B
+DB00440,Dihydrofolate reductase
+DB00438,Beta-lactamase Toho-1
+DB00438,Peptidoglycan synthase FtsI
+DB00438,Penicillin-binding protein 1A
+DB00438,Penicillin-binding protein 1B
+DB00438,Penicillin-binding protein 2
+DB00280,Muscarinic acetylcholine receptor M1
+DB00280,Muscarinic acetylcholine receptor M3
+DB00280,Sodium channel protein type 5 subunit alpha
+DB00280,Potassium voltage-gated channel subfamily D member 3
+DB00280,Muscarinic acetylcholine receptor M2
+DB00280,Potassium voltage-gated channel subfamily D member 2
+DB00280,Potassium voltage-gated channel subfamily H member 2
+DB00280,Alpha-1-acid glycoprotein 2
+DB00573,Prostaglandin G/H synthase 1
+DB00573,Prostaglandin G/H synthase 2
+DB00573,Peroxisome proliferator-activated receptor alpha
+DB00573,Peroxisome proliferator-activated receptor gamma
+DB00607,Penicillin-binding protein 1b
+DB00607,Penicillin-binding protein 2B
+DB00607,Penicillin-binding protein 2a
+DB00607,Penicillin-binding protein 3
+DB00607,Penicillin-binding protein 1A
+DB00713,Penicillin-binding protein 1A
+DB00713,Penicillin-binding protein 1A
+DB00713,Penicillin-binding protein 3
+DB00713,Penicillin-binding protein 2B
+DB00713,Penicillin-binding protein 1b
+DB00713,Solute carrier family 15 member 1
+DB00713,Penicillin-binding protein 2a
+DB00713,Penicillin-binding protein 2
+DB00713,Solute carrier family 15 member 2
+DB00713,Beta-lactamase Toho-1
+DB00430,Peptidoglycan synthase FtsI
+DB00430,Penicillin-binding protein 1B
+DB00430,D-alanyl-D-alanine carboxypeptidase DacC
+DB00430,Penicillin binding protein 2a
+DB00430,Penicillin-binding protein 1B
+DB00430,Penicillin-binding protein 1A
+DB00430,Penicillin-binding protein 1A
+DB01060,Penicillin binding protein
+DB00997,Nucleolar and coiled-body phosphoprotein 1
+DB00997,DNA topoisomerase 1
+DB00997,DNA topoisomerase 2-beta
+DB00997,DNA topoisomerase 2-alpha
+DB00997,DNA
+DB00878,Bacterial outer membrane
+DB00605,Mitogen-activated protein kinase 3
+DB00605,Prostaglandin G/H synthase 1
+DB00605,Peroxisome proliferator-activated receptor delta
+DB00605,Aldo-keto reductase family 1 member B10
+DB00605,Prostaglandin G/H synthase 2
+DB00605,Aldose reductase
+DB00605,Prostaglandin D2 receptor 2
+DB00500,Prostaglandin G/H synthase 1
+DB00500,Prostaglandin G/H synthase 2
+DB00501,Histamine H2 receptor
+DB00808,Solute carrier family 12 member 3
+DB00554,Prostaglandin G/H synthase 1
+DB00554,Prostaglandin G/H synthase 2
+DB01110,Cytochrome P450 51
+DB01110,Calcium-activated potassium channel
+DB01110,Inward rectifier potassium channel
+DB01110,"Nitric oxide synthase, endothelial"
+DB01110,Nuclear receptor subfamily 1 group I member 2
+DB01110,Voltage-gated Potassium Channels
+DB01110,Voltage gated L-type calcium channel
+DB01110,"Nitric oxide synthase, inducible"
+DB00465,Prostaglandin G/H synthase 1
+DB00465,Prostaglandin G/H synthase 2
+DB00863,Histamine H2 receptor
+DB00863,Acetylcholinesterase
+DB00330,Probable arabinosyltransferase B
+DB00330,Probable arabinosyltransferase A
+DB00330,Probable arabinosyltransferase C
+DB00242,Ribonucleoside-diphosphate reductase large subunit
+DB00242,DNA polymerase epsilon catalytic subunit A
+DB00242,DNA polymerase epsilon subunit 3
+DB00242,DNA polymerase epsilon subunit 4
+DB00242,Poly [ADP-ribose] polymerase 1
+DB00242,DNA
+DB00242,DNA polymerase epsilon subunit 2
+DB00242,Purine nucleoside phosphorylase
+DB00242,Ribonucleoside-diphosphate reductase subunit M2
+DB00242,Ribonucleoside-diphosphate reductase subunit M2 B
+DB00242,DNA polymerase alpha catalytic subunit
+DB00290,DNA
+DB00290,DNA ligase 1
+DB00290,DNA ligase 3
+DB01190,50S ribosomal protein L1
+DB01331,Peptidoglycan synthase FtsI
+DB01331,D-alanyl-D-alanine carboxypeptidase DacC
+DB01331,Penicillin-binding protein 3
+DB01331,Penicillin-binding protein 1A
+DB01331,Penicillin-binding protein 2a
+DB01331,Penicillin-binding protein 1A
+DB01331,Penicillin-binding protein 1B
+DB01331,D-alanyl-D-alanine carboxypeptidase DacA
+DB01331,D-alanyl-D-alanine carboxypeptidase DacB
+DB01331,D-alanyl-D-alanine endopeptidase
+DB01331,Penicillin-binding protein 1b
+DB01331,Penicillin-binding protein 2B
+DB00564,Voltage-gated sodium channel alpha subunit
+DB00564,Neuronal acetylcholine receptor subunit alpha-4
+DB00564,Nuclear receptor subfamily 1 group I member 2
+DB01118,Voltage-dependent T-type calcium channel subunit alpha-1I
+DB01118,Voltage gated L-type calcium channel
+DB01118,Peroxisome proliferator-activated receptor gamma coactivator 1-beta
+DB01118,Beta adrenergic receptor
+DB01118,HERG human cardiac K+ channel
+DB01118,Thyroid hormone receptor
+DB01118,Peroxisome proliferator-activated receptor gamma
+DB01118,Peroxisome proliferator-activated receptor alpha
+DB00927,Histamine H2 receptor
+DB01068,GABA(A) Receptor Benzodiazepine Binding Site
+DB01068,GABA(A) Receptor
+DB01068,Nuclear receptor subfamily 1 group I member 2
+DB01327,Penicillin-binding protein 1B
+DB01327,Penicillin-binding protein 1C
+DB01327,Peptidoglycan synthase FtsI
+DB01327,Interleukin-2
+DB01327,Penicillin-binding protein 2
+DB01327,Interleukin-15
+DB01327,Serum paraoxonase/arylesterase 1
+DB01327,Penicillin-binding protein 1A
+DB00851,DNA polymerase alpha subunit B
+DB00851,"6-phosphogluconate dehydrogenase, decarboxylating"
+DB00851,DNA
+DB00227,3-hydroxy-3-methylglutaryl-coenzyme A reductase
+DB00227,Histone deacetylase 2
+DB00227,Integrin alpha-L
+DB01009,Prostaglandin G/H synthase 1
+DB01009,C-X-C chemokine receptor type 1
+DB01009,Prostaglandin G/H synthase 2
+DB00585,Histamine H2 receptor
+DB01229,Nuclear receptor subfamily 1 group I member 2
+DB01229,Microtubule-associated protein 2
+DB01229,Apoptosis regulator Bcl-2
+DB01229,Tubulin beta-1 chain
+DB01229,Microtubule-associated protein 4
+DB01229,Microtubule-associated protein tau
+DB01182,Sodium channel protein type 5 subunit alpha
+DB01182,Potassium voltage-gated channel subfamily H member 2
+DB01182,Beta-1 adrenergic receptor
+DB01182,Beta-2 adrenergic receptor
+DB00478,Matrix protein 2
+DB00196,Cytochrome P450 51
+DB00675,Estrogen receptor beta
+DB00675,Androgen receptor
+DB00675,Estrogen-related receptor gamma
+DB00675,Mitogen-activated protein kinase 8
+DB00675,Estrogen receptor alpha
+DB00675,"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase"
+DB00675,Protein kinase C
+DB00675,Potassium voltage-gated channel subfamily H member 2
+DB00675,Nuclear receptor subfamily 1 group I member 2
+DB00675,Sex hormone-binding globulin
+DB00499,Androgen receptor
+DB00499,Aryl hydrocarbon receptor
+DB00499,Nuclear receptor subfamily 1 group I member 2
+DB01165,DNA gyrase subunit A
+DB01165,DNA topoisomerase 4 subunit A
+DB01165,DNA topoisomerase 2-alpha
+DB00916,Oxygen-insensitive NADPH nitroreductase
+DB00916,Anaerobic bacterial DNA
+DB00916,Protozoal DNA
+DB01112,Penicillin-binding protein 1A
+DB00987,DNA polymerase beta
+DB00987,DNA
+DB00524,Solute carrier family 12 member 3
+DB00698,30S ribosomal protein S10
+DB00698,Probable pyruvate-flavodoxin oxidoreductase
+DB00698,Oxygen-insensitive NADPH nitroreductase
+DB00261,"cGMP-inhibited 3',5'-cyclic phosphodiesterase A"
+DB01097,"Dihydroorotate dehydrogenase (quinone), mitochondrial"
+DB01097,Aryl hydrocarbon receptor
+DB01097,Protein-tyrosine kinase 2-beta
+DB00811,RNA-directed RNA polymerase catalytic subunit
+DB00811,Genome polyprotein
+DB00811,RNA-directed RNA polymerase L
+DB00811,Inosine-5'-monophosphate dehydrogenase 1
+DB00811,Inosine-5'-monophosphate dehydrogenase 2
+DB01150,Penicillin-binding protein 2x
+DB01150,Penicillin-binding protein 1A
+DB01150,Penicillin-binding protein 2B
+DB00909,"Carbonic anhydrase 5B, mitochondrial"
+DB00909,Carbonic anhydrase-related protein 10
+DB00909,Carbonic anhydrase-related protein 11
+DB00909,Carbonic anhydrase 12
+DB00909,Carbonic anhydrase 13
+DB00909,Sodium channel protein type 3 subunit alpha
+DB00909,Sodium channel protein type 4 subunit alpha
+DB00909,Sodium channel subunit beta-3
+DB00909,Amine oxidase [flavin-containing] B
+DB00909,Carbonic anhydrase 2
+DB00909,Carbonic anhydrase 4
+DB00909,Carbonic anhydrase 7
+DB00909,Carbonic anhydrase 9
+DB00909,Voltage-dependent T-type calcium channel subunit alpha-1H
+DB00909,Sodium channel protein type 9 subunit alpha
+DB00909,Sodium channel subunit beta-1
+DB00909,Sodium channel subunit beta-2
+DB00909,Sodium channel protein type 1 subunit alpha
+DB00909,Carbonic anhydrase 1
+DB00909,Voltage-dependent T-type calcium channel subunit alpha-1G
+DB00909,Carbonic anhydrase 3
+DB00909,"Carbonic anhydrase 5A, mitochondrial"
+DB00909,Carbonic anhydrase 6
+DB00909,Carbonic anhydrase-related protein
+DB00909,Carbonic anhydrase 14
+DB00909,Voltage-dependent T-type calcium channel subunit alpha-1I
+DB00909,Sodium channel protein type 2 subunit alpha
+DB00909,Sodium channel protein type 5 subunit alpha
+DB00909,Sodium channel protein type 11 subunit alpha
+DB00909,Sodium channel subunit beta-4
+DB01140,Penicillin-binding protein 3
+DB01140,Penicillin-binding protein 1A
+DB01140,Penicillin-binding protein 1b
+DB01140,Penicillin-binding protein 2B
+DB01204,DNA
+DB01204,DNA topoisomerase 2-alpha
+DB01212,Solute carrier family 22 member 11
+DB01212,Solute carrier family 15 member 1
+DB01212,Penicillin-binding protein 2B
+DB01212,Solute carrier family 22 member 8
+DB01212,Solute carrier family 22 member 6
+DB00493,Penicillin-binding protein 2a
+DB00493,Penicillin-binding protein 1b
+DB00493,Penicillin-binding protein 1A
+DB00493,Solute carrier family 22 member 8
+DB00493,Solute carrier family 22 member 11
+DB00493,Penicillin-binding protein 3
+DB00493,Penicillin-binding protein 2B
+DB00493,Solute carrier family 22 member 6
+DB00493,Solute carrier family 22 member 7
+DB00493,Solute carrier family 15 member 1
+DB00493,Serum albumin
+DB00493,Beta-lactamase
+DB00493,Solute carrier family 15 member 2
+DB00537,Potassium voltage-gated channel subfamily H member 2
+DB00537,DNA topoisomerase 4 subunit A
+DB00537,Gyrase A
+DB00537,DNA gyrase subunit A
+DB00537,DNA topoisomerase 2-alpha
+DB00537,DNA topoisomerase 4 subunit B
+DB00537,DNA gyrase subunit A
+DB00537,DNA gyrase subunit A
+DB00537,DNA topoisomerase 4 subunit A
+DB00537,DNA gyrase subunit A
+DB00537,Multidrug resistance protein MdtK
+DB01177,DNA
+DB01177,DNA topoisomerase 2-alpha
+DB01320,Sodium channel protein type 5 subunit alpha
+DB01073,Ribonucleoside-diphosphate reductase large subunit
+DB01073,Deoxycytidine kinase
+DB01073,DNA polymerase alpha catalytic subunit
+DB01073,DNA
+DB00649,Reverse transcriptase/RNaseH
+DB00238,Reverse transcriptase/RNaseH
+DB00593,Voltage-dependent T-type calcium channel subunit alpha-1G
+DB00495,Reverse transcriptase/RNaseH
+DB00495,Telomerase reverse transcriptase
+DB00900,Reverse transcriptase/RNaseH
+DB00900,Purine nucleoside phosphorylase
+DB01416,Peptidoglycan synthase FtsI
+DB00555,5-hydroxytryptamine receptor 3A
+DB00555,Voltage-dependent R-type calcium channel subunit alpha-1E (CACNA1E)
+DB00555,Alpha-2A adrenergic receptor
+DB00555,Histamine H1 receptor
+DB00555,Kappa-type opioid receptor
+DB00555,Adenosine receptor A1
+DB00555,Adenosine receptor A2a
+DB00555,Alpha-1A adrenergic receptor
+DB00555,Dopamine D2 receptor
+DB00555,GABA(A) Receptor Benzodiazepine Binding Site
+DB00555,Glutamate receptor 1
+DB00555,Voltage-gated sodium channel alpha subunit
+DB00555,Beta-1 adrenergic receptor
+DB00555,D(1) dopamine receptor
+DB00555,GABA(A) Receptor
+DB00555,Acetylcholine receptor subunit alpha
+DB00555,5-hydroxytryptamine receptor 2A
+DB00563,Dihydrofolate reductase
+DB00563,Thymidylate synthase
+DB00563,Bifunctional purine biosynthesis protein PURH
+DB00814,Prostaglandin G/H synthase 2
+DB00814,Prostaglandin G/H synthase 1
+DB01128,Androgen receptor
+DB01181,DNA
+DB01181,Nuclear receptor subfamily 1 group I member 2
+DB01166,"cGMP-inhibited 3',5'-cyclic phosphodiesterase A"
+DB00273,Carbonic anhydrase 4
+DB00273,Carbonic anhydrase 1
+DB00273,Voltage-dependent R-type calcium channel
+DB00273,Carbonic anhydrase 2
+DB00273,Kainate receptors
+DB00273,Carbonic anhydrase 3
+DB00273,Gamma-aminobutyric acid receptor subunit alpha-1
+DB00273,Voltage-gated sodium channel alpha subunit
+DB00273,Voltage gated L-type calcium channel
+DB00503,Human immunodeficiency virus type 1 protease
+DB00503,Nuclear receptor subfamily 1 group I member 2
+DB00308,Voltage-dependent calcium channel subunit alpha-2/delta-1
+DB00308,Potassium voltage-gated channel subfamily H member 6
+DB00308,Voltage-dependent L-type calcium channel subunit beta-1
+DB00308,Voltage-dependent calcium channel gamma-1 subunit
+DB00308,Potassium voltage-gated channel subfamily H member 2
+DB00308,Voltage-dependent L-type calcium channel subunit alpha-1C
+DB00308,Potassium channel subfamily K member 1
+DB00308,Potassium channel subfamily K member 6
+DB00308,ATP-sensitive inward rectifier potassium channel 11
+DB00308,Potassium voltage-gated channel subfamily H member 7
+DB00544,Thymidylate synthase
+DB00544,RNA
+DB00544,DNA
+DB00175,3-hydroxy-3-methylglutaryl-coenzyme A reductase
+DB00175,Histone deacetylase 2
+DB01217,Cytochrome P450 19A1
+DB01030,DNA topoisomerase 1
+DB01030,DNA
+DB01030,"DNA topoisomerase I, mitochondrial"
+DB00762,"DNA topoisomerase I, mitochondrial"
+DB00762,DNA topoisomerase 1
+DB00426,DNA polymerase catalytic subunit
+DB00355,Beta-lactamase
+DB00355,Penicillin-binding protein 3
+DB00355,Beta-lactamase Toho-1
+DB00641,3-hydroxy-3-methylglutaryl-coenzyme A reductase
+DB00641,Histone deacetylase 2
+DB00641,Integrin alpha-L
+DB00788,Peptostreptococcal albumin-binding protein
+DB00788,Prostaglandin G/H synthase 1
+DB00788,Prostaglandin G/H synthase 2
+DB00760,D-alanyl-D-alanine carboxypeptidase DacB
+DB01330,Penicillin-binding protein 3
+DB00949,"Glutamate receptor ionotropic, NMDA 2B"
+DB00949,"Glutamate receptor ionotropic, NMDA 2A"
+DB00461,Prostaglandin G/H synthase 1
+DB00461,Prostaglandin G/H synthase 2
+DB00911,DNA
+DB00709,DNA
+DB00709,Reverse transcriptase/RNaseH
+DB00709,Protein P
+DB00758,P2Y purinoceptor 12
+DB00369,DNA polymerase catalytic subunit
+DB00254,30S ribosomal protein
+DB00441,UMP-CMP kinase
+DB00441,Ribonucleoside-diphosphate reductase large subunit
+DB00441,Thymidylate synthase
+DB00441,DNA
+DB00313,Histone deacetylase
+DB00313,"Succinate-semialdehyde dehydrogenase, mitochondrial"
+DB00313,Histone deacetylase 2
+DB00313,Peroxisome proliferator-activated receptor alpha
+DB00313,Peroxisome proliferator-activated receptor delta
+DB00313,Cyclin-dependent kinase inhibitor 1
+DB00313,Ornithine decarboxylase
+DB00313,Histone deacetylase 9
+DB00313,"Short/branched chain specific acyl-CoA dehydrogenase, mitochondrial"
+DB00313,"2-oxoglutarate dehydrogenase, mitochondrial"
+DB00313,Sodium channel protein
+DB00313,Peroxisome proliferator-activated receptor gamma
+DB00313,Hepatocyte growth factor
+DB00313,Programmed cell death 1 ligand 1
+DB01248,Apoptosis regulator Bcl-2
+DB01248,Microtubule-associated protein 2
+DB01248,Tubulin beta-1 chain
+DB01248,Nuclear receptor subfamily 1 group I member 2
+DB01248,Microtubule-associated protein 4
+DB01248,Microtubule-associated protein tau
+DB00582,Cytochrome P450 51
+DB00361,Tubulin beta chain
+DB00615,Endoplasmin
+DB00615,DNA-directed RNA polymerase subunit beta
+DB00615,DNA-directed RNA polymerase subunit beta'
+DB00615,DNA-directed RNA polymerase subunit alpha
+DB00615,Heat shock protein HSP 90-alpha
+DB01076,Aryl hydrocarbon receptor
+DB01076,Histone deacetylase 2
+DB01076,3-hydroxy-3-methylglutaryl-coenzyme A reductase
+DB01076,Dipeptidyl peptidase 4
+DB01076,Nuclear receptor subfamily 1 group I member 3
+DB00586,Prostaglandin G/H synthase 1
+DB00586,Prostaglandin G/H synthase 2
+DB00684,16S ribosomal RNA
+DB00684,Cytoplasmic membrane
+DB00684,Bacterial outer membrane
+DB00684,23S ribosomal RNA
+DB00864,Peptidyl-prolyl cis-trans isomerase FKBP1A
+DB00552,Adenosine deaminase
+DB06817,Integrase
+DB01264,Human immunodeficiency virus type 1 protease
+DB01006,Cytochrome P450 19A1
+DB04835,C-C chemokine receptor type 5
+DB00252,Sodium channel protein type 5 subunit alpha
+DB00252,Sodium channel protein type 3 subunit alpha
+DB00252,Voltage-dependent L-type calcium channel
+DB00252,Sodium channel protein type 8 subunit alpha
+DB00252,Potassium voltage-gated channel subfamily H member 2
+DB00252,Sodium channel protein type 1 subunit alpha
+DB00252,Nuclear receptor subfamily 1 group I member 2
+DB00252,Sodium channel subunit beta-1
+DB00252,Sodium channel protein type 2 subunit alpha
+DB00252,GABA(A) Receptor
+DB01155,DNA topoisomerase 4 subunit A
+DB01155,DNA gyrase subunit A
+DB06772,Tubulin beta-1 chain
+DB08864,Reverse transcriptase/RNaseH
+DB08864,Nuclear receptor subfamily 1 group I member 2
+DB00482,Prostaglandin G/H synthase 2
+DB00482,3-phosphoinositide-dependent protein kinase 1
+DB00482,Carbonic anhydrase 2
+DB00482,Cadherin-11
+DB00482,Carbonic anhydrase 3
+DB00482,Sialidase-1
+DB00512,D-Ala-D-Ala moiety of NAM/NAG peptide subunits of peptidoglycan
+DB04855,Alpha-2A adrenergic receptor
+DB04855,Alpha-2B adrenergic receptor
+DB04855,Voltage-dependent L-type calcium channel subunit alpha-1D
+DB04855,Voltage-dependent L-type calcium channel subunit beta-3
+DB04855,Inward rectifier potassium channel
+DB04855,Potassium voltage-gated channel subfamily D member 3
+DB04855,Beta-1 adrenergic receptor
+DB04855,Voltage-dependent L-type calcium channel subunit alpha-1F
+DB04855,Voltage-dependent L-type calcium channel subunit alpha-1S
+DB04855,Voltage-dependent L-type calcium channel subunit beta-2
+DB04855,Voltage-dependent L-type calcium channel subunit beta-4
+DB04855,Potassium channel subfamily K member 2
+DB04855,Sodium channel protein type 5 subunit alpha
+DB04855,Alpha-1A adrenergic receptor
+DB04855,Alpha-1B adrenergic receptor
+DB04855,Alpha-1D adrenergic receptor
+DB04855,Alpha-2C adrenergic receptor
+DB04855,Potassium voltage-gated channel subfamily H member 2
+DB04855,Voltage-dependent L-type calcium channel subunit alpha-1C
+DB04855,Voltage-dependent L-type calcium channel subunit beta-1
+DB04855,Thyroid hormone receptor alpha
+DB04855,G protein-activated inward rectifier potassium channel 1
+DB04855,Potassium voltage-gated channel subfamily KQT member 1
+DB04855,Sodium/calcium exchanger 1
+DB06813,Thymidylate synthase
+DB06813,Dihydrofolate reductase
+DB06813,"Folylpolyglutamate synthase, mitochondrial"
+DB01268,Vascular endothelial growth factor receptor 2
+DB01268,Receptor-type tyrosine-protein kinase FLT3
+DB01268,Platelet-derived growth factor receptor beta
+DB01268,Mast/stem cell growth factor receptor Kit
+DB01268,Hepatocyte growth factor receptor
+DB01268,Vascular endothelial growth factor receptor 1
+DB01268,Vascular endothelial growth factor receptor 3
+DB01268,Macrophage colony-stimulating factor 1 receptor
+DB01268,Platelet-derived growth factor receptor alpha
+DB00975,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A"
+DB00975,"cGMP-specific 3',5'-cyclic phosphodiesterase"
+DB00975,"cAMP-specific 3',5'-cyclic phosphodiesterase 4A"
+DB00975,Adenosine deaminase
+DB00975,Calcipressin-1
+DB00975,Alpha-1-acid glycoprotein 1
+DB00250,Inactive dihydropteroate synthase 2
+DB00250,Dihydropteroate synthase 1
+DB06201,Sodium channel protein type 9 subunit alpha
+DB06201,Metabotropic glutamate receptor 5
+DB01254,Tyrosine-protein kinase ABL1
+DB01254,Platelet-derived growth factor receptor beta
+DB01254,Ephrin type-A receptor 2
+DB01254,Breakpoint cluster region protein
+DB01254,Tyrosine-protein kinase CSK
+DB01254,Heat shock cognate 71 kDa protein
+DB01254,Mitogen-activated protein kinase 14
+DB01254,Tyrosine-protein kinase Lck
+DB01254,Tyrosine-protein kinase Yes
+DB01254,Mast/stem cell growth factor receptor Kit
+DB01254,Tyrosine-protein kinase BTK
+DB01254,Ephrin type-A receptor 5
+DB01254,Tyrosine-protein kinase Fgr
+DB01254,Mitogen-activated protein kinase kinase kinase MLT
+DB01254,Tyrosine-protein kinase ABL2
+DB01254,Proto-oncogene tyrosine-protein kinase Src
+DB01254,Tyrosine-protein kinase Fyn
+DB01254,Signal transducer and activator of transcription 5B
+DB01254,Nuclear receptor subfamily 4 group A member 3
+DB01254,Ephrin type-B receptor 4
+DB01254,Tyrosine-protein kinase FRK
+DB01254,Tyrosine-protein kinase Lyn
+DB01254,Amidophosphoribosyltransferase
+DB00665,Androgen receptor
+DB01211,Potassium voltage-gated channel subfamily H member 2
+DB01211,50S ribosomal protein L10
+DB01211,Solute carrier organic anion transporter family member 1B1
+DB01211,Solute carrier organic anion transporter family member 1B3
+DB00442,DNA
+DB00775,Integrin alpha-IIb
+DB00775,Integrin beta-3
+DB08860,3-hydroxy-3-methylglutaryl-coenzyme A reductase
+DB08860,Integrin alpha-L
+DB00671,Penicillin-binding protein 2
+DB00671,Penicillin-binding protein
+DB00526,DNA
+DB00218,DNA topoisomerase 2-alpha
+DB00218,DNA topoisomerase 4 subunit A
+DB00218,DNA gyrase subunit A
+DB00218,Serum paraoxonase/arylesterase 1
+DB00853,DNA
+DB01167,Lanosterol 14-alpha demethylase
+DB00906,Sodium- and chloride-dependent GABA transporter 1
+DB01017,30S ribosomal protein S4
+DB01017,30S ribosomal protein S9
+DB01017,"Nitric oxide synthase, inducible"
+DB01017,16S ribosomal RNA
+DB01017,Interleukin-1 beta
+DB01017,Arachidonate 5-lipoxygenase
+DB01017,Matrix metalloproteinase-9
+DB01017,Vascular endothelial growth factor A
+DB01017,Caspase-1
+DB01017,Caspase-3
+DB01017,Cytochrome c
+DB01017,Mitogen-activated Protein Kinases
+DB00773,DNA topoisomerase 2-beta
+DB00773,DNA topoisomerase 2-alpha
+DB01610,DNA
+DB06209,P2Y purinoceptor 12
+DB00879,Reverse transcriptase/RNaseH
+DB00204,Potassium channel subfamily K member 2
+DB00204,Potassium voltage-gated channel subfamily H member 2
+DB00204,ATP-sensitive inward rectifier potassium channel 12
+DB01590,Serine/threonine-protein kinase mTOR
+DB06287,Serine/threonine-protein kinase mTOR
+DB00560,30S ribosomal protein S19
+DB00560,30S ribosomal protein S9
+DB00560,30S ribosomal protein S13
+DB00560,16S ribosomal RNA
+DB00560,30S ribosomal protein S14
+DB00560,30S ribosomal protein S12
+DB01072,Human immunodeficiency virus type 1 protease
+DB01413,Penicillin-binding protein 2
+DB01413,Penicillin-binding protein 1A
+DB01413,Penicillin-binding protein 2
+DB01413,Peptidoglycan synthase FtsI
+DB01413,Penicillin-binding protein 3
+DB01413,Penicillin-binding protein 1B
+DB01413,Penicillin-binding protein 1B
+DB01008,DNA
+DB01048,Reverse transcriptase/RNaseH
+DB00539,Estrogen receptor alpha
+DB00539,Sex hormone-binding globulin
+DB00207,23S ribosomal RNA
+DB00207,Protein-arginine deiminase type-4
+DB00631,DNA
+DB00631,DNA polymerase alpha catalytic subunit
+DB00631,Ribonucleoside-diphosphate reductase large subunit
+DB00619,Mast/stem cell growth factor receptor Kit
+DB00619,Platelet-derived growth factor receptor alpha
+DB00619,Epithelial discoidin domain-containing receptor 1
+DB00619,Platelet-derived growth factor receptor beta
+DB00619,Proto-oncogene tyrosine-protein kinase receptor Ret
+DB00619,Macrophage colony-stimulating factor 1 receptor
+DB00619,Breakpoint cluster region protein
+DB00619,Tyrosine-protein kinase ABL1
+DB00619,High affinity nerve growth factor receptor
+DB00619,Discoidin domain-containing receptor 2
+DB01137,DNA gyrase subunit A
+DB01137,DNA topoisomerase 4 subunit A
+DB01042,DNA
+DB01004,DNA polymerase catalytic subunit
+DB01004,Thymidine kinase
+DB01004,DNA
+DB05812,"Steroid 17-alpha-hydroxylase/17,20 lyase"
+DB08889,Proteasome subunit beta type-2
+DB08889,Proteasome subunit beta type-5
+DB08889,Proteasome subunit beta type-8
+DB08889,Proteasome subunit beta type-9
+DB08889,Proteasome subunit beta type-10
+DB08889,Proteasome subunit beta type-1
+DB00374,Prostaglandin E2 receptor EP2 subtype
+DB00374,Peroxisome proliferator-activated receptor delta
+DB00374,P2Y purinoceptor 12
+DB00374,Prostacyclin receptor
+DB00374,Prostaglandin D2 receptor
+DB01319,Human immunodeficiency virus type 1 protease
+DB00887,Solute carrier family 12 member 5
+DB00887,Solute carrier family 12 member 1
+DB00887,Cystic fibrosis transmembrane conductance regulator
+DB00887,Solute carrier family 12 member 2
+DB00887,Solute carrier family 12 member 4
+DB00317,Epidermal growth factor receptor
+DB00993,Ras-related C3 botulinum toxin substrate 1
+DB08816,P2Y purinoceptor 12
+DB00990,Cytochrome P450 19A1
+DB00530,Nuclear receptor subfamily 1 group I member 2
+DB00530,Epidermal growth factor receptor
+DB01202,Synaptic vesicle glycoprotein 2A
+DB01202,Voltage-dependent N-type calcium channel subunit alpha-1B
+DB00339,Fatty acid synthetase
+DB00531,DNA
+DB00531,Nuclear receptor subfamily 1 group I member 2
+DB01098,3-hydroxy-3-methylglutaryl-coenzyme A reductase
+DB01098,Integrin alpha-L
+DB05676,Phosphodiesterase isozyme 4
+DB01195,Sodium channel protein type 4 subunit alpha
+DB01195,Sodium channel protein type 5 subunit alpha
+DB01195,Potassium voltage-gated channel subfamily H member 2
+DB01195,Ryanodine receptor 2
+DB01259,Epidermal growth factor receptor
+DB01259,Receptor tyrosine-protein kinase erbB-2
+DB14575,P2X purinoceptor 4
+DB00828,UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+DB08895,Tyrosine-protein kinase JAK2
+DB08895,Non-receptor tyrosine-protein kinase TYK2
+DB08895,Tyrosine-protein kinase JAK1
+DB08895,Tyrosine-protein kinase JAK3
+DB00188,Proteasome subunit beta type-5
+DB00188,Proteasome subunit beta type-1
+DB00198,Sialidase-1
+DB00198,Neuraminidase
+DB00198,Sialidase-2
+DB00214,Solute carrier family 12 member 1
+DB00214,Solute carrier family 12 member 2
+DB00220,HIV-1 protease
+DB00224,Human immunodeficiency virus type 1 protease
+DB00230,Voltage-dependent calcium channel subunit alpha-2/delta-1
+DB00256,30S ribosomal protein S4
+DB00276,Alpha-1-acid glycoprotein 1
+DB00276,DNA topoisomerase 2-alpha
+DB00276,DNA
+DB00276,Potassium voltage-gated channel subfamily H member 2
+DB00276,Serum albumin
+DB00291,DNA
+DB00293,Thymidylate synthase
+DB00293,"Folylpolyglutamate synthase, mitochondrial"
+DB00299,Thymidine kinase
+DB00299,DNA polymerase catalytic subunit
+DB00301,Penicillin-binding protein 1A
+DB00303,Penicillin-binding protein 2
+DB00303,Peptidoglycan synthase FtsI
+DB00303,D-alanyl-D-alanine carboxypeptidase DacB
+DB00303,Penicillin-binding protein 1B
+DB00303,Peptidoglycan synthase FtsI
+DB00303,Penicillin-binding protein 1A
+DB00303,D-alanyl-D-alanine carboxypeptidase DacC
+DB00303,Penicillin-binding protein 2
+DB00305,DNA
+DB00319,Penicillin-binding protein 3
+DB00319,Penicillin-binding protein 1b
+DB00319,Penicillin-binding protein 2B
+DB00319,Penicillin-binding protein 2a
+DB00362,"1,3-beta-glucan synthase component FKS1"
+DB00398,Receptor-type tyrosine-protein kinase FLT3
+DB00398,RAF proto-oncogene serine/threonine-protein kinase
+DB00398,Vascular endothelial growth factor receptor 3
+DB00398,Mast/stem cell growth factor receptor Kit
+DB00398,Vascular endothelial growth factor receptor 2
+DB00398,Platelet-derived growth factor receptor beta
+DB00398,Vascular endothelial growth factor receptor 1
+DB00398,Serine/threonine-protein kinase B-raf
+DB00398,Fibroblast growth factor receptor 1
+DB00398,Proto-oncogene tyrosine-protein kinase receptor Ret
+DB00439,3-hydroxy-3-methylglutaryl-coenzyme A reductase
+DB00444,DNA topoisomerase 2-alpha
+DB00469,Prostaglandin G/H synthase 1
+DB00469,Prostaglandin G/H synthase 2
+DB00480,Tumor necrosis factor ligand superfamily member 11
+DB00480,Prostaglandin G/H synthase 2
+DB00480,Cadherin-5
+DB00480,Protein cereblon
+DB00529,DNA polymerase catalytic subunit
+DB00529,DNA polymerase catalytic subunit
+DB00533,Prostaglandin G/H synthase 2
+DB00533,Elastin
+DB00535,Penicillin-binding protein 2
+DB00535,Peptidoglycan transpeptidase
+DB00535,Myeloperoxidase
+DB00535,PBP3
+DB00541,Tubulin beta chain
+DB00541,Tubulin alpha-4A chain
+DB00558,Neuraminidase
+DB00558,Neuraminidase
+DB00558,Sialidase-2
+DB00580,Carbonic anhydrase 3
+DB00580,Prostaglandin G/H synthase 2
+DB00580,Carbonic anhydrase 2
+DB00601,23S ribosomal RNA
+DB00625,Reverse transcriptase/RNaseH
+DB00642,Thymidylate synthase
+DB00642,Trifunctional purine biosynthetic protein adenosine-3
+DB00642,Bifunctional purine biosynthesis protein PURH
+DB00642,Dihydrofolate reductase
+DB00648,"Adrenodoxin, mitochondrial"
+DB00648,Estrogen receptor alpha
+DB00648,Androgen receptor
+DB00648,"Cytochrome P450 11B1, mitochondrial"
+DB00648,Progesterone receptor
+DB00685,DNA gyrase subunit A
+DB00685,DNA topoisomerase 4 subunit A
+DB00685,DNA topoisomerase 2-alpha
+DB00695,Carbonic anhydrase 2
+DB00695,Solute carrier family 12 member 1
+DB00695,G-protein coupled receptor 35
+DB00701,Human immunodeficiency virus type 1 protease
+DB00705,Reverse transcriptase/RNaseH
+DB00776,Sodium channel protein
+DB00932,Human immunodeficiency virus type 1 protease
+DB00976,23S ribosomal RNA
+DB00978,DNA gyrase subunit A
+DB00978,DNA topoisomerase 4 subunit A
+DB00978,DNA topoisomerase 2-alpha
+DB00995,"Peroxiredoxin-5, mitochondrial"
+DB00995,Inhibitor of nuclear factor kappa-B kinase subunit beta
+DB00996,Voltage-dependent calcium channel subunit alpha-2/delta-1
+DB00996,Potassium voltage-gated channel subfamily KQT member 5
+DB00996,Voltage-dependent calcium channel subunit alpha-2/delta-2
+DB00996,Potassium voltage-gated channel subfamily KQT member 3
+DB00996,Adenosine receptor A1
+DB00996,Voltage-dependent N-type calcium channel
+DB01026,Lanosterol 14-alpha demethylase
+DB01026,Androgen receptor
+DB01026,"Steroid 17-alpha-hydroxylase/17,20 lyase"
+DB01026,Steroid 21-hydroxylase
+DB01026,Potassium voltage-gated channel subfamily H member 2
+DB01026,Nuclear receptor subfamily 1 group I member 2
+DB01026,Nuclear receptor subfamily 1 group I member 3
+DB01041,alpha1-acid glycoprotein
+DB01041,DNA
+DB01041,Protein cereblon
+DB01044,DNA topoisomerase 4 subunit B
+DB01044,DNA gyrase subunit A
+DB01044,DNA gyrase subunit B
+DB01044,DNA topoisomerase 4 subunit A
+DB01050,Prostaglandin G/H synthase 2
+DB01050,Apoptosis regulator Bcl-2
+DB01050,"Fatty acid-binding protein, intestinal"
+DB01050,Peroxisome proliferator-activated receptor alpha
+DB01050,Platelet glycoprotein Ib alpha chain
+DB01050,Cystic fibrosis transmembrane conductance regulator
+DB01050,Prostaglandin G/H synthase 1
+DB01050,Thrombomodulin
+DB01050,Peroxisome proliferator-activated receptor gamma
+DB01050,Protein S100-A7
+DB01059,DNA topoisomerase 2-alpha
+DB01059,DNA gyrase subunit A
+DB01059,DNA topoisomerase 2
+DB01059,DNA gyrase subunit A
+DB01059,DNA topoisomerase 4 subunit A
+DB01059,DNA topoisomerase 4 subunit A
+DB01066,Penicillin-binding protein 1A
+DB01066,Penicillin-binding protein 2B
+DB01080,"4-aminobutyrate aminotransferase, mitochondrial"
+DB01082,Protein-arginine deiminase type-4
+DB01082,23S ribosomal RNA
+DB01082,30S ribosomal protein S12
+DB01082,16S ribosomal RNA
+DB01082,Bacterial outer membrane
+DB01082,Cytoplasmic membrane
+DB01088,"cAMP-specific 3',5'-cyclic phosphodiesterase 4A"
+DB01088,Prostaglandin E2 receptor EP1 subtype
+DB01088,Prostacyclin receptor
+DB01088,Prostaglandin D2 receptor 2
+DB01088,Tissue-type plasminogen activator
+DB01088,"cAMP-specific 3',5'-cyclic phosphodiesterase 4B"
+DB01088,"cAMP-specific 3',5'-cyclic phosphodiesterase 4C"
+DB01088,"cAMP-specific 3',5'-cyclic phosphodiesterase 4D"
+DB01095,Histone deacetylase 2
+DB01095,3-hydroxy-3-methylglutaryl-coenzyme A reductase
+DB01101,DNA
+DB01101,Thymidylate synthase
+DB01101,RNA
+DB01168,DNA
+DB01168,Monoamine oxidase
+DB01196,Microtubule-associated protein 1A
+DB01196,Microtubule-associated protein 2
+DB01196,Estrogen receptor beta
+DB01196,Estrogen receptor alpha
+DB01232,Human immunodeficiency virus type 1 protease
+DB01263,Cytochrome P450 51
+DB01280,DNA
+DB01280,DNA polymerase alpha catalytic subunit
+DB01280,DNA ligase 1
+DB01280,DNA primase small subunit
+DB01280,Ribonucleoside-diphosphate reductase large subunit
+DB01628,Prostaglandin G/H synthase 2
+DB04106,"Thioredoxin reductase 1, cytoplasmic"
+DB04572,DNA
+DB04845,Tubulin beta-3 chain
+DB04868,Mast/stem cell growth factor receptor Kit
+DB04868,Tyrosine-protein kinase ABL1
+DB05015,Histone deacetylase
+DB05109,DNA
+DB05294,Vascular endothelial growth factor A
+DB05294,Epidermal growth factor receptor
+DB05294,Protein-tyrosine kinase 6
+DB05294,Proto-oncogene tyrosine-protein kinase receptor Ret
+DB05294,Angiopoietin-1 receptor
+DB06176,Histone deacetylase
+DB06176,Histone deacetylase 1
+DB06176,Histone deacetylase 2
+DB06176,Histone deacetylase 4
+DB06176,Histone deacetylase 6
+DB06176,Multidrug resistance-associated protein 1
+DB06211,Penicillin-binding protein 3
+DB06211,Penicillin-binding protein 1B
+DB06211,Penicillin-binding protein 4
+DB06211,Penicillin-binding protein 1A
+DB06211,Penicillin-binding protein 2
+DB06218,Sodium channel protein type 9 subunit alpha
+DB06218,Sodium channel protein type 3 subunit alpha
+DB06218,Sodium channel protein type 10 subunit alpha
+DB06414,Gag-Pol polyprotein
+DB06414,Reverse transcriptase/RNaseH
+DB06414,Gag-Pol polyprotein
+DB06589,Vascular endothelial growth factor receptor 3
+DB06589,Vascular endothelial growth factor receptor 1
+DB06589,Fibroblast growth factor receptor 3
+DB06589,Fibroblast growth factor 1
+DB06589,SH2B adapter protein 3
+DB06589,Vascular endothelial growth factor receptor 2
+DB06589,Platelet-derived growth factor receptor alpha
+DB06589,Platelet-derived growth factor receptor beta
+DB06589,Mast/stem cell growth factor receptor Kit
+DB06589,Tyrosine-protein kinase ITK/TSK
+DB06616,Tyrosine-protein kinase HCK
+DB06616,STE20-like serine/threonine-protein kinase
+DB06616,Calcium/calmodulin-dependent protein kinase type II subunit gamma
+DB06616,Tyrosine-protein kinase Fgr
+DB06616,Tyrosine-protein kinase Tec
+DB06616,Tyrosine-protein kinase ABL1
+DB06616,Tyrosine-protein kinase Lyn
+DB06616,Proto-oncogene tyrosine-protein kinase Src
+DB06616,Dual specificity mitogen-activated protein kinase kinase 1
+DB06616,Dual specificity mitogen-activated protein kinase kinase 2
+DB06616,Mitogen-activated protein kinase kinase kinase 2
+DB06626,Vascular endothelial growth factor receptor 2
+DB06626,Vascular endothelial growth factor receptor 1
+DB06626,Vascular endothelial growth factor receptor 3
+DB06699,Gonadotropin-releasing hormone receptor
+DB08828,Smoothened homolog
+DB08865,Hepatocyte growth factor receptor
+DB08865,Proto-oncogene tyrosine-protein kinase ROS
+DB08865,ALK tyrosine kinase receptor
+DB08865,Macrophage-stimulating protein receptor
+DB08871,Tubulin beta-1 chain
+DB08871,Apoptosis regulator Bcl-2
+DB08873,NS3/4A protein
+DB08875,Hepatocyte growth factor receptor
+DB08875,Proto-oncogene tyrosine-protein kinase receptor Ret
+DB08875,Vascular endothelial growth factor receptor 2
+DB08877,Tyrosine-protein kinase JAK1
+DB08877,Tyrosine-protein kinase JAK2
+DB08877,Tyrosine-protein kinase JAK3
+DB08877,Non-receptor tyrosine-protein kinase TYK2
+DB08881,Serine/threonine-protein kinase B-raf
+DB08883,Glutamate receptor 1
+DB08896,Platelet-derived growth factor receptor alpha
+DB08896,Fibroblast growth factor receptor 1
+DB08896,Fibroblast growth factor receptor 2
+DB08896,High affinity nerve growth factor receptor
+DB08896,Tyrosine-protein kinase FRK
+DB08896,Proto-oncogene tyrosine-protein kinase receptor Ret
+DB08896,Mast/stem cell growth factor receptor Kit
+DB08896,Platelet-derived growth factor receptor beta
+DB08896,RAF proto-oncogene serine/threonine-protein kinase
+DB08896,Serine/threonine-protein kinase B-raf
+DB08896,Mitogen-activated protein kinase 11
+DB08896,Vascular endothelial growth factor receptor 1
+DB08896,Vascular endothelial growth factor receptor 2
+DB08896,Vascular endothelial growth factor receptor 3
+DB08896,Angiopoietin-1 receptor
+DB08896,Discoidin domain-containing receptor 2
+DB08896,Ephrin type-A receptor 2
+DB08896,Tyrosine-protein kinase ABL1
+DB08901,Receptor-type tyrosine-protein kinase FLT3
+DB08901,Fibroblast growth factor receptor 3
+DB08901,Tyrosine-protein kinase Lck
+DB08901,Tyrosine-protein kinase ABL1
+DB08901,Breakpoint cluster region protein
+DB08901,Fibroblast growth factor receptor 1
+DB08901,Fibroblast growth factor receptor 4
+DB08901,Proto-oncogene tyrosine-protein kinase Src
+DB08901,Tyrosine-protein kinase Lyn
+DB08901,Platelet-derived growth factor receptor alpha
+DB08901,Mast/stem cell growth factor receptor Kit
+DB08901,Proto-oncogene tyrosine-protein kinase receptor Ret
+DB08901,Angiopoietin-1 receptor
+DB08901,Fibroblast growth factor receptor 2
+DB08901,Vascular endothelial growth factor receptor 2
+DB08910,Tumor necrosis factor
+DB08910,Prostaglandin G/H synthase 2
+DB08910,Protein cereblon
+DB08911,Dual specificity mitogen-activated protein kinase kinase 2
+DB08911,Dual specificity mitogen-activated protein kinase kinase 1
+DB08912,RAF proto-oncogene serine/threonine-protein kinase
+DB08912,Serine/threonine-protein kinase B-raf
+DB08912,Serine/threonine-protein kinase SIK1
+DB08912,Serine/threonine-protein kinase Nek11
+DB08912,LIM domain kinase 1
+DB08916,Epidermal growth factor receptor
+DB08916,Receptor tyrosine-protein kinase erbB-2
+DB08916,Receptor tyrosine-protein kinase erbB-4
+DB08930,Integrase
+DB08934,RNA-dependent RNA-polymerase
+DB09030,Proteinase-activated receptor 1
+DB09101,Integrase
+DB11641,Tubulin beta chain
+DB06736,Prostaglandin G/H synthase 2
+DB06736,Prostaglandin G/H synthase 1
+DB00415,Angiopoietin-1 receptor
+DB00415,Penicillin-binding protein 2B
+DB00415,Solute carrier family 15 member 1
+DB00415,Solute carrier family 15 member 2
+DB00415,Penicillin-binding protein 2a
+DB00415,Penicillin-binding protein 1b
+DB00415,Penicillin-binding protein 3
+DB00415,Penicillin-binding protein 1A
+DB08795,Penicillin-binding protein 1A
+DB08795,Penicillin-binding protein 2a
+DB08795,Penicillin-binding protein 1b
+DB08795,Penicillin-binding protein 3
+DB08795,Penicillin-binding protein 2B
+DB01061,Penicillin-binding protein 1A
+DB01602,Penicillin-binding protein
+DB01053,Solute carrier family 22 member 8
+DB01053,Solute carrier family 15 member 1
+DB01053,Penicillin-binding protein 3
+DB01053,Solute carrier family 15 member 2
+DB00578,Beta-lactamase Toho-1
+DB00578,Penicillin-binding protein
+DB09319,Penicillin-binding protein
+DB01414,Penicillin-binding protein 1B
+DB01414,Penicillin-binding protein 1A
+DB00456,D-alanyl-D-alanine carboxypeptidase
+DB00456,Penicillin-binding protein 3
+DB00456,Penicillin-binding protein 2a
+DB00456,Penicillin-binding protein 1A
+DB00456,Beta-lactamase
+DB00456,Penicillin-binding protein 1A
+DB00456,Penicillin-binding protein 1b
+DB00456,Penicillin-binding protein 2B
+DB01326,Penicillin-binding protein 2
+DB01139,Penicillin-binding protein 1A
+DB00267,Peptidoglycan synthase FtsI
+DB00267,Penicillin-binding protein 1A
+DB00274,Peptidoglycan synthase FtsI
+DB00274,D-alanyl-D-alanine carboxypeptidase DacA
+DB00274,Penicillin binding protein 2a
+DB00274,Penicillin-binding protein 1B
+DB00274,Penicillin-binding protein 1A
+DB00274,D-alanyl-D-alanine carboxypeptidase DacC
+DB01328,D-alanyl-D-alanine carboxypeptidase DacB
+DB01328,Penicillin-binding protein 1A
+DB01328,Penicillin-binding protein 1B
+DB01328,Peptidoglycan synthase FtsI
+DB01328,Penicillin-binding protein 2
+DB01329,D-alanyl-D-alanine carboxypeptidase DacA
+DB01329,Penicillin-binding protein 1B
+DB01329,Penicillin-binding protein 1B
+DB01329,D-alanyl-D-alanine carboxypeptidase DacC
+DB01329,Penicillin-binding protein 1A
+DB01329,Peptidoglycan synthase FtsI
+DB01329,Penicillin-binding protein 2
+DB01329,Penicillin-binding protein 1A
+DB01329,D-alanyl-D-alanine carboxypeptidase DacB
+DB00923,Penicillin-binding protein 2
+DB00229,Penicillin-binding protein 1A
+DB01333,Penicillin-binding protein 1A
+DB11367,Penicillin-binding protein 1B
+DB01415,Penicillin-binding protein 2
+DB01415,Peptidoglycan synthase FtsI
+DB01415,Penicillin-binding protein 1A
+DB01415,Penicillin-binding protein 1B
+DB01332,D-alanyl-D-alanine carboxypeptidase DacC
+DB01332,Penicillin-binding protein 1A
+DB01332,Penicillin-binding protein 1B
+DB01332,Peptidoglycan transpeptidase
+DB01147,D-alanyl-D-alanine carboxypeptidase DacA
+DB01147,Penicillin-binding protein 2X
+DB01147,Penicillin-binding protein 1A
+DB00080,Cytoplasmic membrane
+DB00739,Penicillin-binding protein 2a
+DB00739,Penicillin-binding protein 2B
+DB00739,Penicillin-binding protein 1b
+DB00739,Penicillin-binding protein 3
+DB00739,Penicillin-binding protein 1A
+DB04570,Penicillin-binding protein 3
+DB04570,D-alanyl-D-alanine carboxypeptidase DacB
+DB04570,Penicillin-binding protein 1A
+DB04570,Penicillin-binding protein 1B
+DB00447,Penicillin-binding protein 1A
+DB00447,Penicillin-binding protein 3
+DB01603,Penicillin-binding protein 3
+DB01603,Penicillin-binding protein 1b
+DB01603,MecA PBP2' (penicillin binding protein 2')
+DB01603,Penicillin-binding protein 2a
+DB01603,Penicillin-binding protein 2B
+DB01603,Penicillin-binding protein 1A
+DB00948,Penicillin-binding protein 3
+DB00948,Penicillin-binding protein 1A
+DB00948,Penicillin-binding protein 2
+DB01604,Penicillin-binding protein 1A
+DB01605,Penicillin-binding protein 1A
+DB00908,Sodium channel protein type 5 subunit alpha
+DB00908,Potassium channel subfamily K member 1
+DB00908,Potassium channel subfamily K member 6
+DB00908,Alpha-1A adrenergic receptor
+DB00908,Alpha-1D adrenergic receptor
+DB00908,Potassium voltage-gated channel subfamily H member 2
+DB00908,Alpha-1B adrenergic receptor
+DB06149,D-Ala-D-Ala moiety of NAM/NAG peptide subunits of peptidoglycan
+DB01607,Penicillin binding protein 2a

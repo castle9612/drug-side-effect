@@ -1,0 +1,5 @@
+adr_name,base_acc,f1_test_acc,f1_f1_score,f1_recall_scaore,f1_confusion_matrix,f1_n_estimators,f1_min_sample_split,f1_max_depth,acc_test_acc,acc_f1_score,acc_recall_scaore,acc_confusion_matrix,acc_n_estimators,acc_min_sample_split,acc_max_depth,rs_test_acc,rs_f1_score,rs_recall_scaore,rs_confusion_matrix,rs_n_estimators,rs_min_sample_split,rs_max_depth
+TACHYCARDIA,0.7330037082818295,0.5925925925925926,0.3773584905660377,0.45454545454545453,"[[38 21]
+ [12 10]]",5,10,8,0.6666666666666666,0.3414634146341463,0.3181818181818182,"[[47 12]
+ [15  7]]",2,6,13,0.5925925925925926,0.3773584905660377,0.45454545454545453,"[[38 21]
+ [12 10]]",5,10,8

@@ -1,0 +1,6 @@
+adr_name,base_acc,f1_test_acc,f1_f1_score,f1_recall_scaore,f1_confusion_matrix,f1_n_estimators,f1_min_sample_split,f1_max_depth,f1_criterion,f1_min_sample_leaf,acc_test_acc,acc_f1_score,acc_recall_scaore,acc_confusion_matrix,acc_n_estimators,acc_min_sample_split,acc_max_depth,acc_criterion,acc_min_sample_leaf,rs_test_acc,rs_f1_score,rs_recall_scaore,rs_confusion_matrix,rs_n_estimators,rs_min_sample_split,rs_max_depth,rs_criterion,rs_min_sample_leaf,total_test_acc,total_f1_score,total_recall_scaore,total_confusion_matrix,total_n_estimators,total_min_sample_split,total_max_depth,total_criterion,total_min_sample_leaf
+THROMBOCYTOPENIA,0.5963060686015831,0.5307017543859649,0.4780487804878049,0.532608695652174,"[[72 64]
+ [43 49]]",2,10,8,entropy,3,0.5570175438596491,0.4656084656084656,0.4782608695652174,"[[83 53]
+ [48 44]]",9,8,13,entropy,3,0.5307017543859649,0.4780487804878049,0.532608695652174,"[[72 64]
+ [43 49]]",2,10,8,entropy,3,0.5307017543859649,0.4780487804878049,0.532608695652174,"[[72 64]
+ [43 49]]",2,10,8,entropy,3

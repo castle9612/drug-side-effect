@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="480" viewBox="0 0 980 480">
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#222} .small{font-size:12px} .label{font-size:13px} .title{font-size:22px;font-weight:700} .axis{stroke:#333;stroke-width:1.2} .grid{stroke:#ddd;stroke-width:1}</style>
+<text x="490.0" y="36" text-anchor="middle" class="title">Major experiment comparison</text>
+<line x1="90" y1="390.0" x2="940" y2="390.0" class="grid" />
+<text x="80" y="394.0" text-anchor="end" class="small">0.00</text>
+<line x1="90" y1="326.0" x2="940" y2="326.0" class="grid" />
+<text x="80" y="330.0" text-anchor="end" class="small">0.11</text>
+<line x1="90" y1="262.0" x2="940" y2="262.0" class="grid" />
+<text x="80" y="266.0" text-anchor="end" class="small">0.22</text>
+<line x1="90" y1="198.0" x2="940" y2="198.0" class="grid" />
+<text x="80" y="202.0" text-anchor="end" class="small">0.33</text>
+<line x1="90" y1="134.0" x2="940" y2="134.0" class="grid" />
+<text x="80" y="138.0" text-anchor="end" class="small">0.44</text>
+<line x1="90" y1="70.0" x2="940" y2="70.0" class="grid" />
+<text x="80" y="74.0" text-anchor="end" class="small">0.55</text>
+<line x1="90" y1="70" x2="90" y2="390" class="axis" />
+<line x1="90" y1="390" x2="940" y2="390" class="axis" />
+<rect x="129.0" y="81.22807017543863" width="40" height="308.77192982456137" fill="#1f77b4" rx="4" />
+<text x="149.0" y="75.22807017543863" text-anchor="middle" class="small">0.531</text>
+<rect x="175.0" y="111.86252771618626" width="40" height="278.13747228381374" fill="#ff7f0e" rx="4" />
+<text x="195.0" y="105.86252771618626" text-anchor="middle" class="small">0.478</text>
+<text x="175.0" y="412" text-anchor="middle" class="small">RF core model</text>
+<rect x="299.0" y="79.69696969696975" width="40" height="310.30303030303025" fill="#1f77b4" rx="4" />
+<text x="319.0" y="73.69696969696975" text-anchor="middle" class="small">0.533</text>
+<rect x="345.0" y="109.86531986531992" width="40" height="280.1346801346801" fill="#ff7f0e" rx="4" />
+<text x="365.0" y="103.86531986531992" text-anchor="middle" class="small">0.481</text>
+<text x="345.0" y="412" text-anchor="middle" class="small">XGB SMILES-32</text>
+<rect x="469.0" y="70.0" width="40" height="320.0" fill="#1f77b4" rx="4" />
+<text x="489.0" y="64.0" text-anchor="middle" class="small">0.550</text>
+<rect x="515.0" y="104.57975986277876" width="40" height="285.42024013722124" fill="#ff7f0e" rx="4" />
+<text x="535.0" y="98.57975986277876" text-anchor="middle" class="small">0.491</text>
+<text x="515.0" y="412" text-anchor="middle" class="small">XGB SMILES-64</text>
+<rect x="639.0" y="121.0924369747899" width="40" height="268.9075630252101" fill="#1f77b4" rx="4" />
+<text x="659.0" y="115.0924369747899" text-anchor="middle" class="small">0.462</text>
+<rect x="685.0" y="115.92036063110447" width="40" height="274.0796393688955" fill="#ff7f0e" rx="4" />
+<text x="705.0" y="109.92036063110447" text-anchor="middle" class="small">0.471</text>
+<text x="685.0" y="412" text-anchor="middle" class="small">XGB SMILES+Target-128</text>
+<rect x="809.0" y="70.0" width="40" height="320.0" fill="#1f77b4" rx="4" />
+<text x="829.0" y="64.0" text-anchor="middle" class="small">0.550</text>
+<rect x="855.0" y="116.20320855614978" width="40" height="273.7967914438502" fill="#ff7f0e" rx="4" />
+<text x="875.0" y="110.20320855614978" text-anchor="middle" class="small">0.471</text>
+<text x="855.0" y="412" text-anchor="middle" class="small">XGB refined dataset</text>
+<rect x="90" y="440" width="16" height="12" fill="#1f77b4" rx="2" />
+<text x="114" y="450" class="label">Accuracy</text>
+<rect x="260" y="440" width="16" height="12" fill="#ff7f0e" rx="2" />
+<text x="284" y="450" class="label">F1 score</text>
+</svg>

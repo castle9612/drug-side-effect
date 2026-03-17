@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="480" viewBox="0 0 1120 480">
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#222} .small{font-size:12px} .label{font-size:13px} .title{font-size:22px;font-weight:700} .axis{stroke:#333;stroke-width:1.2} .grid{stroke:#ddd;stroke-width:1}</style>
+<text x="560.0" y="36" text-anchor="middle" class="title">XGBoost ablation study</text>
+<line x1="90" y1="390.0" x2="1080" y2="390.0" class="grid" />
+<text x="80" y="394.0" text-anchor="end" class="small">0.00</text>
+<line x1="90" y1="326.0" x2="1080" y2="326.0" class="grid" />
+<text x="80" y="330.0" text-anchor="end" class="small">0.11</text>
+<line x1="90" y1="262.0" x2="1080" y2="262.0" class="grid" />
+<text x="80" y="266.0" text-anchor="end" class="small">0.22</text>
+<line x1="90" y1="198.0" x2="1080" y2="198.0" class="grid" />
+<text x="80" y="202.0" text-anchor="end" class="small">0.33</text>
+<line x1="90" y1="134.0" x2="1080" y2="134.0" class="grid" />
+<text x="80" y="138.0" text-anchor="end" class="small">0.44</text>
+<line x1="90" y1="70.0" x2="1080" y2="70.0" class="grid" />
+<text x="80" y="74.0" text-anchor="end" class="small">0.55</text>
+<line x1="90" y1="70" x2="90" y2="390" class="axis" />
+<line x1="90" y1="390" x2="1080" y2="390" class="axis" />
+<rect x="144.75" y="79.69696969696975" width="40" height="310.30303030303025" fill="#1f77b4" rx="4" />
+<text x="164.75" y="73.69696969696975" text-anchor="middle" class="small">0.533</text>
+<rect x="190.75" y="109.86531986531992" width="40" height="280.1346801346801" fill="#ff7f0e" rx="4" />
+<text x="210.75" y="103.86531986531992" text-anchor="middle" class="small">0.481</text>
+<rect x="236.75" y="82.43954698500158" width="40" height="307.5604530149984" fill="#2ca02c" rx="4" />
+<text x="256.75" y="76.43954698500158" text-anchor="middle" class="small">0.529</text>
+<text x="213.75" y="412" text-anchor="middle" class="small">XGB SMILES-32</text>
+<rect x="392.25" y="70.0" width="40" height="320.0" fill="#1f77b4" rx="4" />
+<text x="412.25" y="64.0" text-anchor="middle" class="small">0.550</text>
+<rect x="438.25" y="104.57975986277876" width="40" height="285.42024013722124" fill="#ff7f0e" rx="4" />
+<text x="458.25" y="98.57975986277876" text-anchor="middle" class="small">0.491</text>
+<rect x="484.25" y="73.62411998775639" width="40" height="316.3758800122436" fill="#2ca02c" rx="4" />
+<text x="504.25" y="67.62411998775639" text-anchor="middle" class="small">0.544</text>
+<text x="461.25" y="412" text-anchor="middle" class="small">XGB SMILES-64</text>
+<rect x="639.75" y="121.0924369747899" width="40" height="268.9075630252101" fill="#1f77b4" rx="4" />
+<text x="659.75" y="115.0924369747899" text-anchor="middle" class="small">0.462</text>
+<rect x="685.75" y="115.92036063110447" width="40" height="274.0796393688955" fill="#ff7f0e" rx="4" />
+<text x="705.75" y="109.92036063110447" text-anchor="middle" class="small">0.471</text>
+<rect x="731.75" y="87.08121555255309" width="40" height="302.9187844474469" fill="#2ca02c" rx="4" />
+<text x="751.75" y="81.08121555255309" text-anchor="middle" class="small">0.521</text>
+<text x="708.75" y="412" text-anchor="middle" class="small">XGB SMILES+Target-128</text>
+<rect x="887.25" y="70.0" width="40" height="320.0" fill="#1f77b4" rx="4" />
+<text x="907.25" y="64.0" text-anchor="middle" class="small">0.550</text>
+<rect x="933.25" y="116.20320855614978" width="40" height="273.7967914438502" fill="#ff7f0e" rx="4" />
+<text x="953.25" y="110.20320855614978" text-anchor="middle" class="small">0.471</text>
+<rect x="979.25" y="75.58310376492204" width="40" height="314.41689623507796" fill="#2ca02c" rx="4" />
+<text x="999.25" y="69.58310376492204" text-anchor="middle" class="small">0.540</text>
+<text x="956.25" y="412" text-anchor="middle" class="small">XGB refined dataset</text>
+<rect x="90" y="440" width="16" height="12" fill="#1f77b4" rx="2" />
+<text x="114" y="450" class="label">Accuracy</text>
+<rect x="260" y="440" width="16" height="12" fill="#ff7f0e" rx="2" />
+<text x="284" y="450" class="label">F1 score</text>
+<rect x="430" y="440" width="16" height="12" fill="#2ca02c" rx="2" />
+<text x="454" y="450" class="label">ROC-AUC</text>
+</svg>

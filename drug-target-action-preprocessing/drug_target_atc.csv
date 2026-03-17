@@ -1,0 +1,1400 @@
+drug_id,drug_name,atc
+DB00001,Refludan,Direct thrombin inhibitors
+DB00006,Bivalirudin,Direct thrombin inhibitors
+DB00007,Leuprorelin,Gonadotropin releasing hormone analogues
+DB00014,Goserelin,Gonadotropin releasing hormone analogues
+DB00016,2-hydroxysuccinaldehyde,Other antianemic preparations
+DB00030,Insulin,Insulins and analogues for inhalation
+DB00030,Insulin,"Insulins and analogues for injection, fast-acting"
+DB00030,Insulin,"Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting"
+DB00030,Insulin,"Insulins and analogues for injection, intermediate-acting"
+DB00030,Insulin,"Insulins and analogues for injection, long-acting"
+DB00035,desmopressin,Vasopressin and analogues
+DB00046,Humalog,"Insulins and analogues for injection, fast-acting"
+DB00046,Humalog,"Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting"
+DB00046,Humalog,"Insulins and analogues for injection, intermediate-acting"
+DB00047,Lantus,"Insulins and analogues for injection, long-acting"
+DB00049,rasburicase,Detoxifying agents for antineoplastic treatment
+DB00049,rasburicase,Other antigout preparations
+DB00050,cetrorelix,Anti-gonadotropin-releasing hormones
+DB00063,Eptifibatide,Platelet aggregation inhibitors excl. heparin
+DB00071,Insulin,"Insulins and analogues for injection, fast-acting"
+DB00071,Insulin,"Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting"
+DB00071,Insulin,"Insulins and analogues for injection, intermediate-acting"
+DB00071,Insulin,"Insulins and analogues for injection, long-acting"
+DB00075,Ge-132,Selective immunosuppressants
+DB00080,LY146032,Other antibacterials
+DB00091,v,Calcineurin inhibitors
+DB00091,v,Other ophthalmologicals
+DB00094,Metrodin,Gonadotropins
+DB00104,Octreotide,Somatostatin and analogues
+DB00105,K779,Interferons
+DB00106,Abarelix,Other hormone antagonists and related agents
+DB00107,oxytocin,"Ergot alkaloids and oxytocin incl. analogues, in combination"
+DB00107,oxytocin,Oxytocin and analogues
+DB00109,Enfuvirtide,Other antivirals
+DB00125,arginine,Amino acids
+DB00125,arginine,Detoxifying agents for antineoplastic treatment
+DB00130,glutamine,Amino acids and derivatives
+DB00136,"1,25(OH)2D3",Other antipsoriatics for topical use
+DB00136,"1,25(OH)2D3",Vitamin D and analogues
+DB00145,glycine,Other irrigating solutions
+DB00175,pravastatin,HMG CoA reductase inhibitors
+DB00175,pravastatin,HMG CoA reductase inhibitors in combination with other lipid modifying agents
+DB00175,pravastatin,"HMG CoA reductase inhibitors, other combinations"
+DB00176,fluvoxamine,Selective serotonin reuptake inhibitors
+DB00177,valsartan,Angiotensin II receptor blockers (ARBs) and calcium channel blockers
+DB00177,valsartan,Angiotensin II receptor blockers (ARBs) and diuretics
+DB00177,valsartan,"Angiotensin II receptor blockers (ARBs), other combinations"
+DB00177,valsartan,"Angiotensin II receptor blockers (ARBs), plain"
+DB00177,valsartan,"HMG CoA reductase inhibitors, other combinations"
+DB00178,ramipril,ACE inhibitors and calcium channel blockers
+DB00178,ramipril,ACE inhibitors and diuretics
+DB00178,ramipril,"ACE inhibitors, other combinations"
+DB00178,ramipril,"ACE inhibitors, plain"
+DB00178,ramipril,"HMG CoA reductase inhibitors, other combinations"
+DB00180,flunisolide,Corticosteroids
+DB00180,flunisolide,Glucocorticoids
+DB00181,baclofen,Other centrally acting agents
+DB00182,amphetamine,Centrally acting sympathomimetics
+DB00184,nicotine,Drugs used in nicotine dependence
+DB00185,cevimeline,Other parasympathomimetics
+DB00186,lorazepam,Benzodiazepine derivatives
+DB00187,esmolol,"Beta blocking agents, selective"
+DB00188,bortezomib,Other antineoplastic agents
+DB00193,tramadol,Opioids in combination with non-opioid analgesics
+DB00193,tramadol,Other opioids
+DB00195,betaxolol,Beta blocking agents
+DB00195,betaxolol,"Beta blocking agents, selective"
+DB00196,fluconazole,Combinations of antibacterials
+DB00196,fluconazole,Imidazole and triazole derivatives
+DB00196,fluconazole,Triazole derivatives
+DB00197,troglitazone,Thiazolidinediones
+DB00198,oseltamivir,Neuraminidase inhibitors
+DB00200,hydroxocobalamin,Antidotes
+DB00200,hydroxocobalamin,Vitamin B12 (cyanocobalamin and analogues)
+DB00201,caffeine,Tests for gastric secretion
+DB00201,caffeine,Xanthine derivatives
+DB00201,caffeine,Xanthines
+DB00203,sildenafil,Drugs used in erectile dysfunction
+DB00203,sildenafil,Sulfonamides
+DB00204,dofetilide,"Antiarrhythmics, class III"
+DB00207,azithromycin,Antibiotics
+DB00207,azithromycin,Combinations of antibacterials
+DB00207,azithromycin,Macrolides
+DB00209,trospium,Drugs for urinary frequency and incontinence
+DB00209,trospium,Synthetic anticholinergic agents in combination with analgesics
+DB00210,adapalene,Retinoids for topical use in acne
+DB00211,midodrine,Adrenergic and dopaminergic agents
+DB00213,pantoprazole,Combinations for eradication of Helicobacter pylori
+DB00213,pantoprazole,Proton pump inhibitors
+DB00214,torasemide,Sulfonamides
+DB00214,torasemide,"Sulfonamides, plain"
+DB00215,citalopram,Selective serotonin reuptake inhibitors
+DB00216,eletriptan,Selective serotonin (5HT1) agonists
+DB00218,moxifloxacin,Fluoroquinolones
+DB00220,nelfinavir,Protease inhibitors
+DB00222,glimepiride,Combinations of oral blood glucose lowering drugs
+DB00222,glimepiride,Sulfonylureas
+DB00224,indinavir,Protease inhibitors
+DB00225,gadodiamide,Paramagnetic contrast media
+DB00227,lovastatin,HMG CoA reductase inhibitors
+DB00227,lovastatin,HMG CoA reductase inhibitors in combination with other lipid modifying agents
+DB00230,pregabalin,Other antiepileptics
+DB00231,temazepam,Benzodiazepine derivatives
+DB00234,reboxetine,Other antidepressants
+DB00235,milrinone,Phosphodiesterase inhibitors
+DB00238,nevirapine,"Antivirals for treatment of HIV infections, combinations"
+DB00238,nevirapine,Non-nucleoside reverse transcriptase inhibitors
+DB00239,oxiconazole,Imidazole and triazole derivatives
+DB00239,oxiconazole,Imidazole derivatives
+DB00242,cladribine,Purine analogues
+DB00242,cladribine,Selective immunosuppressants
+DB00243,ranolazine,Other cardiac preparations
+DB00244,5-ASA,Aminosalicylic acid and similar agents
+DB00246,ziprasidone,Indole derivatives
+DB00248,cabergoline,Dopamine agonists
+DB00248,cabergoline,Prolactine inhibitors
+DB00250,dapsone,Drugs for treatment of lepra
+DB00250,dapsone,Other anti-acne preparations for topical use
+DB00251,terconazole,Triazole derivatives
+DB00252,phenytoin,Hydantoin derivatives
+DB00254,doxycycline,Antiinfectives and antiseptics for local oral treatment
+DB00254,doxycycline,Tetracyclines
+DB00256,lymecycline,Tetracyclines
+DB00261,anagrelide,Other antineoplastic agents
+DB00262,BCNU,Nitrosoureas
+DB00264,metoprolol,Beta blocking agents and calcium channel blockers
+DB00264,metoprolol,"Beta blocking agents, other combinations"
+DB00264,metoprolol,"Beta blocking agents, selective"
+DB00264,metoprolol,"Beta blocking agents, selective, and other diuretics"
+DB00264,metoprolol,"Beta blocking agents, selective, and thiazides"
+DB00268,ropinirole,Dopamine agonists
+DB00270,isradipine,Dihydropyridine derivatives
+DB00273,topiramate,Other antiepileptics
+DB00275,olmesartan,Angiotensin II receptor blockers (ARBs) and calcium channel blockers
+DB00275,olmesartan,Angiotensin II receptor blockers (ARBs) and diuretics
+DB00275,olmesartan,"Angiotensin II receptor blockers (ARBs), other combinations"
+DB00275,olmesartan,"Angiotensin II receptor blockers (ARBs), plain"
+DB00276,amsacrine,Other antineoplastic agents
+DB00277,theophylline,Xanthines
+DB00277,theophylline,Xanthines and adrenergics
+DB00278,argatroban,Direct thrombin inhibitors
+DB00279,triiodothyronine,Thyroid hormones
+DB00280,disopyramide,"Antiarrhythmics, class Ia"
+DB00281,lidocaine,Amides
+DB00281,lidocaine,Analgesics and anesthetics
+DB00281,lidocaine,Anesthetics for topical use
+DB00281,lidocaine,"Anesthetics, local"
+DB00281,lidocaine,"Antiarrhythmics, class Ib"
+DB00281,lidocaine,Local anesthetics
+DB00282,pamidronate,Bisphosphonates
+DB00284,acarbose,Alpha glucosidase inhibitors
+DB00284,acarbose,Combinations of oral blood glucose lowering drugs
+DB00285,venlafaxine,Other antidepressants
+DB00286,conjugated,"Estrogens, combinations with other drugs"
+DB00286,conjugated,"Natural and semisynthetic estrogens, plain"
+DB00287,travoprost,Prostaglandin analogues
+DB00289,atomoxetine,Centrally acting sympathomimetics
+DB00290,bleomycin,Other cytotoxic antibiotics
+DB00291,chlorambucil,Nitrogen mustard analogues
+DB00293,raltitrexed,Folic acid analogues
+DB00294,Implanon,Progestogens
+DB00295,morphine,Antipropulsives
+DB00295,morphine,Natural opium alkaloids
+DB00295,morphine,Opioids in combination with antispasmodics
+DB00296,ropivacaine,Amides
+DB00297,bupivacaine,Amides
+DB00299,penciclovir,Antivirals
+DB00299,penciclovir,Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+DB00301,flucloxacillin,Beta-lactamase resistant penicillins
+DB00301,flucloxacillin,"Combinations of penicillins, incl. beta-lactamase inhibitors"
+DB00302,tranexamic,Amino acids
+DB00303,ertapenem,Carbapenems
+DB00305,mitomycin,Other cytotoxic antibiotics
+DB00307,bexarotene,Other antineoplastic agents
+DB00308,ibutilide,"Antiarrhythmics, class III"
+DB00310,chlorthalidone,Low-ceiling diuretics and potassium-sparing agents
+DB00310,chlorthalidone,Sulfonamides
+DB00310,chlorthalidone,Sulfonamides and potassium in combination
+DB00310,chlorthalidone,"Sulfonamides, plain"
+DB00313,valproate,Fatty acid derivatives
+DB00315,zolmitriptan,Selective serotonin (5HT1) agonists
+DB00316,acetaminophen,Anilides
+DB00316,acetaminophen,Opioids in combination with non-opioid analgesics
+DB00317,gefitinib,Protein kinase inhibitors
+DB00319,piperacillin,"Combinations of penicillins, incl. beta-lactamase inhibitors"
+DB00319,piperacillin,Penicillins with extended spectrum
+DB00320,dihydroergotamine,Ergot alkaloids
+DB00321,amitriptyline,Antidepressants in combination with psycholeptics
+DB00321,amitriptyline,Non-selective monoamine reuptake inhibitors
+DB00323,tolcapone,Other dopaminergic agents
+DB00324,fluorometholone,Corticosteroids
+DB00324,fluorometholone,Corticosteroids and antiinfectives in combination
+DB00324,fluorometholone,Corticosteroids and mydriatics in combination
+DB00324,fluorometholone,"Corticosteroids, combinations for treatment of acne"
+DB00324,fluorometholone,"Corticosteroids, moderately potent (group II)"
+DB00324,fluorometholone,"Corticosteroids, moderately potent, combinations with antibiotics"
+DB00324,fluorometholone,"Corticosteroids, moderately potent, other combinations"
+DB00324,fluorometholone,"Corticosteroids, plain"
+DB00324,fluorometholone,Corticosteroids/antiinfectives/mydriatics in combination
+DB00327,hydromorphone,Natural opium alkaloids
+DB00327,hydromorphone,Opioids in combination with antispasmodics
+DB00328,indomethacin,Acetic acid derivatives and related substances
+DB00328,indomethacin,"Antiinflammatory agents, non-steroids"
+DB00328,indomethacin,"Antiinflammatory agents, non-steroids and antiinfectives in combination"
+DB00328,indomethacin,"Antiinflammatory preparations, non-steroids for topical use"
+DB00328,indomethacin,Other cardiac preparations
+DB00331,metformin,Biguanides
+DB00331,metformin,Combinations of oral blood glucose lowering drugs
+DB00332,ipratropium,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids
+DB00332,ipratropium,Anticholinergics
+DB00332,ipratropium,Other nasal preparations
+DB00334,olanzapine,"Diazepines, oxazepines, thiazepines and oxepines"
+DB00334,Zyprexa,"Diazepines, oxazepines, thiazepines and oxepines"
+DB00335,atenolol,Beta blocking agents and calcium channel blockers
+DB00335,atenolol,"Beta blocking agents, selective"
+DB00335,atenolol,"Beta blocking agents, selective, and other diuretics"
+DB00335,atenolol,"Beta blocking agents, selective, and thiazides"
+DB00335,atenolol,"Beta blocking agents, selective, thiazides and other diuretics"
+DB00337,pimecrolimus,"Agents for dermatitis, excluding corticosteroids"
+DB00338,omeprazole,Combinations for eradication of Helicobacter pylori
+DB00338,omeprazole,Proton pump inhibitors
+DB00341,cetirizine,Piperazine derivatives
+DB00343,diltiazem,Benzothiazepine derivatives
+DB00343,diltiazem,Muscle relaxants
+DB00346,alfuzosin,Alpha-adrenoreceptor antagonists
+DB00348,NTBC,Various alimentary tract and metabolism products
+DB00349,clobazam,Benzodiazepine derivatives
+DB00351,megestrol,Pregnadien derivatives
+DB00351,megestrol,Progestogens
+DB00351,megestrol,"Progestogens and estrogens, fixed combinations"
+DB00351,megestrol,"Progestogens and estrogens, sequential preparations"
+DB00353,methylergometrine,Ergot alkaloids
+DB00353,methylergometrine,"Ergot alkaloids and oxytocin incl. analogues, in combination"
+DB00355,aztreonam,Monobactams
+DB00358,mefloquine,"Artemisinin and derivatives, combinations"
+DB00358,mefloquine,Methanolquinolines
+DB00360,tetrahydrobiopterin,Various alimentary tract and metabolism products
+DB00361,vinorelbine,Vinca alkaloids and analogues
+DB00362,Anidulafungin,Other antimycotics for systemic use
+DB00363,clozapine,"Diazepines, oxazepines, thiazepines and oxepines"
+DB00367,levonorgestrel,Emergency contraceptives
+DB00367,levonorgestrel,Progestogens
+DB00367,levonorgestrel,"Progestogens and estrogens, fixed combinations"
+DB00367,levonorgestrel,"Progestogens and estrogens, sequential preparations"
+DB00369,cidofovir,Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+DB00370,mirtazapine,Other antidepressants
+DB00373,timolol,Beta blocking agents
+DB00373,timolol,"Beta blocking agents, non-selective"
+DB00373,timolol,"Beta blocking agents, non-selective, and thiazides"
+DB00373,timolol,"Beta blocking agents, non-selective, thiazides and other diuretics"
+DB00374,treprostinil,Platelet aggregation inhibitors excl. heparin
+DB00377,palonosetron,Serotonin (5HT3) antagonists
+DB00379,mexiletine,"Antiarrhythmics, class Ib"
+DB00380,dexrazoxane,Detoxifying agents for antineoplastic treatment
+DB00381,amlodipine,ACE inhibitors and calcium channel blockers
+DB00381,amlodipine,"ACE inhibitors, other combinations"
+DB00381,amlodipine,Angiotensin II receptor blockers (ARBs) and calcium channel blockers
+DB00381,amlodipine,"Angiotensin II receptor blockers (ARBs), other combinations"
+DB00381,amlodipine,Beta blocking agents and calcium channel blockers
+DB00381,amlodipine,Calcium channel blockers and diuretics
+DB00381,amlodipine,Dihydropyridine derivatives
+DB00381,amlodipine,"HMG CoA reductase inhibitors, other combinations"
+DB00381,amlodipine,Renin-inhibitors
+DB00390,digoxin,Digitalis glycosides
+DB00393,nimodipine,Dihydropyridine derivatives
+DB00394,beclomethasone,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids
+DB00394,beclomethasone,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics"
+DB00394,beclomethasone,Corticosteroids
+DB00394,beclomethasone,Corticosteroids acting locally
+DB00394,beclomethasone,"Corticosteroids, potent (group III)"
+DB00394,beclomethasone,"Corticosteroids, potent, combinations with antibiotics"
+DB00394,beclomethasone,Glucocorticoids
+DB00395,carisoprodol,Carbamic acid esters
+DB00396,progesterone,Pregnen (4) derivatives
+DB00396,progesterone,"Progestogens and estrogens, fixed combinations"
+DB00398,sorafenib,Protein kinase inhibitors
+DB00399,zoledronic,Bisphosphonates
+DB00399,zoledronic,"Bisphosphonates, combinations"
+DB00401,nisoldipine,Dihydropyridine derivatives
+DB00404,alprazolam,Benzodiazepine derivatives
+DB00408,loxapine,"Diazepines, oxazepines, thiazepines and oxepines"
+DB00410,mupirocin,Other antibiotics for topical use
+DB00410,mupirocin,Other nasal preparations
+DB00412,rosiglitazone,Combinations of oral blood glucose lowering drugs
+DB00412,rosiglitazone,Thiazolidinediones
+DB00413,pramipexole,Dopamine agonists
+DB00419,miglustat,Various alimentary tract and metabolism products
+DB00422,methylphenidate,Centrally acting sympathomimetics
+DB00425,zolpidem,Benzodiazepine related drugs
+DB00426,famciclovir,Antivirals
+DB00426,famciclovir,Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+DB00428,streptozotocin,Nitrosoureas
+DB00429,carboprost,Prostaglandins
+DB00431,lindane,Chlorine containing products
+DB00432,trifluorothymidine,Antivirals
+DB00432,trifluorothymidine,Pyrimidine analogues
+DB00435,nitric,Other respiratory system products
+DB00437,allopurinol,Preparations inhibiting uric acid production
+DB00438,ceftazidime,Third-generation cephalosporins
+DB00439,cerivastatin,HMG CoA reductase inhibitors
+DB00440,trimethoprim,Combinations of drugs for treatment of tuberculosis
+DB00440,trimethoprim-sulfamethoxazole,Combinations of drugs for treatment of tuberculosis
+DB00440,trimethoprim,"Combinations of sulfonamides and trimethoprim, incl. derivatives"
+DB00440,trimethoprim-sulfamethoxazole,"Combinations of sulfonamides and trimethoprim, incl. derivatives"
+DB00440,trimethoprim,Trimethoprim and derivatives
+DB00440,trimethoprim-sulfamethoxazole,Trimethoprim and derivatives
+DB00441,gemcitabine,Pyrimidine analogues
+DB00442,entecavir,Nucleoside and nucleotide reverse transcriptase inhibitors
+DB00443,betamethasone,Corticosteroids
+DB00443,betamethasone,Corticosteroids acting locally
+DB00443,betamethasone,Corticosteroids and antiinfectives in combination
+DB00443,betamethasone,Corticosteroids and mydriatics in combination
+DB00443,betamethasone,"Corticosteroids, plain"
+DB00443,betamethasone,"Corticosteroids, potent (group III)"
+DB00443,betamethasone,"Corticosteroids, potent, combinations with antibiotics"
+DB00443,betamethasone,"Corticosteroids, potent, combinations with antiseptics"
+DB00443,betamethasone,"Corticosteroids, potent, other combinations"
+DB00443,betamethasone,Corticosteroids/antiinfectives/mydriatics in combination
+DB00443,betamethasone,Glucocorticoids
+DB00444,teniposide,Podophyllotoxin derivatives
+DB00448,lansoprazole,Combinations for eradication of Helicobacter pylori
+DB00448,lansoprazole,Proton pump inhibitors
+DB00455,loratadine,Other antihistamines for systemic use
+DB00457,prazosin,Alpha-adrenoreceptor antagonists
+DB00457,prazosin,Alpha-adrenoreceptor antagonists and diuretics
+DB00458,imipramine,Non-selective monoamine reuptake inhibitors
+DB00459,acitretin,Retinoids for treatment of psoriasis
+DB00460,verteporfin,Antineovascularisation agents
+DB00461,nabumetone,"Other antiinflammatory and antirheumatic agents, non-steroids"
+DB00465,ketorolac,Acetic acid derivatives and related substances
+DB00465,ketorolac,"Antiinflammatory agents, non-steroids"
+DB00465,ketorolac,Sympathomimetics excl. antiglaucoma preparations
+DB00469,tenoxicam,Oxicams
+DB00470,delta,Other antiemetics
+DB00471,montelukast,Leukotriene receptor antagonists
+DB00472,fluoxetine,Antidepressants in combination with psycholeptics
+DB00472,fluoxetine,Selective serotonin reuptake inhibitors
+DB00476,duloxetine,Other antidepressants
+DB00478,rimantadine,Cyclic amines
+DB00480,lenalidomide,Other immunosuppressants
+DB00481,raloxifene,Selective estrogen receptor modulators
+DB00482,celecoxib,Coxibs
+DB00482,celecoxib,Dihydropyridine derivatives
+DB00482,celecoxib,Other antineoplastic agents
+DB00482,celecoxib,Sulfonamides
+DB00484,brimonidine,Other dermatologicals
+DB00484,brimonidine,Sympathomimetics in glaucoma therapy
+DB00485,dicloxacillin,Beta-lactamase resistant penicillins
+DB00485,dicloxacillin,"Combinations of penicillins, incl. beta-lactamase inhibitors"
+DB00486,nabilone,Other antiemetics
+DB00489,sotalol,"Beta blocking agents, non-selective"
+DB00489,sotalol,"Beta blocking agents, non-selective, and thiazides"
+DB00489,sotalol,"Beta blocking agents, other combinations"
+DB00490,buspirone,Azaspirodecanedione derivatives
+DB00491,miglitol,Alpha glucosidase inhibitors
+DB00492,fosinopril,ACE inhibitors and diuretics
+DB00492,fosinopril,"ACE inhibitors, plain"
+DB00493,cefotaxime,Third-generation cephalosporins
+DB00494,entacapone,Other dopaminergic agents
+DB00495,zidovudine,"Antivirals for treatment of HIV infections, combinations"
+DB00495,zidovudine,Nucleoside and nucleotide reverse transcriptase inhibitors
+DB00496,darifenacin,Drugs for urinary frequency and incontinence
+DB00497,oxycodone,Natural opium alkaloids
+DB00497,oxycodone,Opioids in combination with non-opioid analgesics
+DB00499,flutamide,Anti-androgens
+DB00500,tolmetin,Acetic acid derivatives and related substances
+DB00500,tolmetin,"Antiinflammatory preparations, non-steroids for topical use"
+DB00501,cimetidine,H2-receptor antagonists
+DB00502,haloperidol,Butyrophenone derivatives
+DB00503,ritonavir,Antivirals for treatment of HCV infections
+DB00503,ritonavir,"Antivirals for treatment of HIV infections, combinations"
+DB00503,ritonavir,Protease inhibitors
+DB00507,nitazoxanide,Other agents against amoebiasis and other protozoal diseases
+DB00512,Vancocine,Antibiotics
+DB00512,Vancocine,Glycopeptide antibacterials
+DB00514,dextromethorphan,Opium alkaloids and derivatives
+DB00514,dextromethorphan,Other nervous system drugs
+DB00515,cisplatin,Platinum compounds
+DB00518,albendazole,Benzimidazole derivatives
+DB00519,trandolapril,ACE inhibitors and calcium channel blockers
+DB00519,trandolapril,"ACE inhibitors, plain"
+DB00520,Cancidas,Other antimycotics for systemic use
+DB00523,retinoic,"Agents for dermatitis, excluding corticosteroids"
+DB00523,retinoic,Other antineoplastic agents
+DB00524,metolazone,Low-ceiling diuretics and potassium-sparing agents
+DB00524,metolazone,Sulfonamides
+DB00524,metolazone,"Sulfonamides, plain"
+DB00526,oxaliplatin,Platinum compounds
+DB00528,lercanidipine,ACE inhibitors and calcium channel blockers
+DB00528,lercanidipine,Angiotensin II receptor blockers (ARBs) and calcium channel blockers
+DB00528,lercanidipine,Dihydropyridine derivatives
+DB00529,foscarnet,Phosphonic acid derivatives
+DB00530,erlotinib,Protein kinase inhibitors
+DB00531,cyclophosphamide,Nitrogen mustard analogues
+DB00533,rofecoxib,Coxibs
+DB00535,cefdinir,Third-generation cephalosporins
+DB00537,ciprofloxacin,Antiinfectives
+DB00537,ciprofloxacin,Combinations of antibacterials
+DB00537,ciprofloxacin,Fluoroquinolones
+DB00538,gadoversetamide,Paramagnetic contrast media
+DB00539,toremifene,Anti-estrogens
+DB00540,nortriptyline,Non-selective monoamine reuptake inhibitors
+DB00541,vincristine,Vinca alkaloids and analogues
+DB00542,benazepril,ACE inhibitors and diuretics
+DB00542,benazepril,"ACE inhibitors, plain"
+DB00543,amoxapine,Non-selective monoamine reuptake inhibitors
+DB00544,5-FU,Pyrimidine analogues
+DB00545,pyridostigmine,Anticholinesterases
+DB00547,desoximetasone,"Corticosteroids, potent (group III)"
+DB00547,desoximetasone,"Corticosteroids, potent, other combinations"
+DB00548,azelaic,Other anti-acne preparations for topical use
+DB00549,zafirlukast,Leukotriene receptor antagonists
+DB00551,acetohydroxamic,Other urologicals
+DB00552,pentostatin,Other antineoplastic agents
+DB00553,8-MOP,Psoralens for systemic use
+DB00553,8-MOP,Psoralens for topical use
+DB00554,piroxicam,"Antiinflammatory agents, non-steroids"
+DB00554,piroxicam,"Antiinflammatory preparations, non-steroids for topical use"
+DB00554,piroxicam,Oxicams
+DB00555,lamotrigine,Other antiepileptics
+DB00558,zanamivir,Neuraminidase inhibitors
+DB00559,bosentan,Antihypertensives for pulmonary arterial hypertension
+DB00559,bosentan,Sulfonamides
+DB00560,tigecycline,Tetracyclines
+DB00563,methotrexate,Folic acid analogues
+DB00563,methotrexate,Other immunosuppressants
+DB00564,carbamazepine,Carboxamide derivatives
+DB00565,cisatracurium,Other quaternary ammonium compounds
+DB00569,fondaparinux,Other antithrombotic agents
+DB00571,propranolol,"Beta blocking agents, non-selective"
+DB00571,propranolol,"Beta blocking agents, non-selective, and thiazides"
+DB00571,propranolol,"Beta blocking agents, other combinations"
+DB00572,atropine,Anticholinergics
+DB00572,atropine,"Belladonna alkaloids, tertiary amines"
+DB00572,atropine,Belladonna and derivatives in combination with psycholeptics
+DB00573,fenoprofen,Propionic acid derivatives
+DB00575,clonidine,Imidazoline receptor agonists
+DB00575,clonidine,Imidazoline receptor agonists in combination with diuretics
+DB00575,clonidine,Other antimigraine preparations
+DB00575,clonidine,Sympathomimetics in glaucoma therapy
+DB00577,VACV,Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+DB00580,valdecoxib,Coxibs
+DB00582,voriconazole,Triazole derivatives
+DB00583,carnitine,Amino acids and derivatives
+DB00584,CAS,ACE inhibitors and calcium channel blockers
+DB00584,CAS,ACE inhibitors and diuretics
+DB00584,CAS,"ACE inhibitors, plain"
+DB00585,nizatidine,H2-receptor antagonists
+DB00586,diclofenac,Acetic acid derivatives and related substances
+DB00586,diclofenac,"Antiinflammatory agents, non-steroids"
+DB00586,diclofenac,"Antiinflammatory agents, non-steroids and antiinfectives in combination"
+DB00586,diclofenac,"Antiinflammatory preparations, non-steroids for topical use"
+DB00586,diclofenac,Other dermatologicals
+DB00590,doxazosin,Alpha-adrenoreceptor antagonists
+DB00594,amiloride,Other potassium-sparing agents
+DB00597,gadoteridol,Paramagnetic contrast media
+DB00598,labetalol,Alpha and beta blocking agents
+DB00598,labetalol,Alpha and beta blocking agents and other diuretics
+DB00598,labetalol,Alpha and beta blocking agents and thiazides
+DB00601,linezolid,Other antibacterials
+DB00602,ivermectin,Avermectines
+DB00602,ivermectin,Other dermatologicals
+DB00603,medroxyprogesterone,Pregnen (4) derivatives
+DB00603,medroxyprogesterone,Progestogens
+DB00603,medroxyprogesterone,"Progestogens and estrogens, fixed combinations"
+DB00603,medroxyprogesterone,"Progestogens and estrogens, sequential preparations"
+DB00605,sulindac,Acetic acid derivatives and related substances
+DB00611,butorphanol,Morphinan derivatives
+DB00612,bisoprolol,"ACE inhibitors, other combinations"
+DB00612,bisoprolol,Beta blocking agents and calcium channel blockers
+DB00612,bisoprolol,"Beta blocking agents, other combinations"
+DB00612,bisoprolol,"Beta blocking agents, selective"
+DB00612,bisoprolol,"Beta blocking agents, selective, and thiazides"
+DB00615,rifabutin,Antibiotics
+DB00619,imatinib,Protein kinase inhibitors
+DB00620,triamcinolone,Corticosteroids
+DB00620,triamcinolone,Corticosteroids and antiinfectives in combination
+DB00620,triamcinolone,Corticosteroids for local oral treatment
+DB00620,triamcinolone,"Corticosteroids, moderately potent (group II)"
+DB00620,triamcinolone,"Corticosteroids, moderately potent, combinations with antibiotics"
+DB00620,triamcinolone,"Corticosteroids, moderately potent, combinations with antiseptics"
+DB00620,triamcinolone,"Corticosteroids, moderately potent, other combinations"
+DB00620,triamcinolone,"Corticosteroids, plain"
+DB00620,triamcinolone,Glucocorticoids
+DB00622,nicardipine,Dihydropyridine derivatives
+DB00624,testosterone,3-oxoandrosten (4) derivatives
+DB00624,testosterone,Androgens and estrogens
+DB00625,efavirenz,"Antivirals for treatment of HIV infections, combinations"
+DB00625,efavirenz,Non-nucleoside reverse transcriptase inhibitors
+DB00627,niacin,HMG CoA reductase inhibitors in combination with other lipid modifying agents
+DB00627,niacin,Nicotinic acid and derivatives
+DB00630,alendronate,Bisphosphonates
+DB00630,alendronate,"Bisphosphonates, combinations"
+DB00631,clofarabine,Purine analogues
+DB00632,Tadenan,Antivirals
+DB00633,dexmedetomidine,Other hypnotics and sedatives
+DB00640,adenosine,Other cardiac preparations
+DB00641,simvastatin,Dipeptidyl peptidase 4 (DPP-4) inhibitors
+DB00641,simvastatin,HMG CoA reductase inhibitors
+DB00641,simvastatin,HMG CoA reductase inhibitors in combination with other lipid modifying agents
+DB00641,simvastatin,"HMG CoA reductase inhibitors, other combinations"
+DB00642,pemetrexed,Folic acid analogues
+DB00644,gonadorelin,Gonadotropin-releasing hormones
+DB00644,gonadorelin,Tests for fertility disturbances
+DB00648,mitotane,Other antineoplastic agents
+DB00649,stavudine,"Antivirals for treatment of HIV infections, combinations"
+DB00649,stavudine,Nucleoside and nucleotide reverse transcriptase inhibitors
+DB00650,leucovorin,Detoxifying agents for antineoplastic treatment
+DB00654,latanoprost,Prostaglandin analogues
+DB00656,trazodone,Other antidepressants
+DB00658,sevelamer,Drugs for treatment of hyperkalemia and hyperphosphatemia
+DB00659,acamprosate,Drugs used in alcohol dependence
+DB00661,verapamil,ACE inhibitors and calcium channel blockers
+DB00661,verapamil,Phenylalkylamine derivatives
+DB00665,nilutamide,Anti-androgens
+DB00666,Nafarelin,Gonadotropin-releasing hormones
+DB00669,sumatriptan,Selective serotonin (5HT1) agonists
+DB00669,sumatriptan,Sulfonamides
+DB00671,cefixime,Third-generation cephalosporins
+DB00673,aprepitant,Other antiemetics
+DB00674,galantamine,Anticholinesterases
+DB00675,tamoxifen,Anti-estrogens
+DB00678,losartan,Angiotensin II receptor blockers (ARBs) and calcium channel blockers
+DB00678,losartan,Angiotensin II receptor blockers (ARBs) and diuretics
+DB00678,losartan,"Angiotensin II receptor blockers (ARBs), plain"
+DB00679,thioridazine,Phenothiazines with piperidine structure
+DB00681,amphotericin,Antibiotics
+DB00681,amphotericin,Antiinfectives and antiseptics for local oral treatment
+DB00683,midazolam,Benzodiazepine derivatives
+DB00684,tobramycin,Antibiotics
+DB00684,tobramycin,Other aminoglycosides
+DB00685,trovafloxacin,Fluoroquinolones
+DB00686,pentosan,Heparins or heparinoids for topical use
+DB00686,pentosan,Other urologicals
+DB00692,phentolamine,Antidotes
+DB00692,phentolamine,Imidazoline derivatives
+DB00693,fluorescein,Colouring agents
+DB00694,anthracycline,Anthracyclines and related substances
+DB00694,anthracycline,Combinations of antineoplastic agents
+DB00695,furosemide,High-ceiling diuretics and potassium-sparing agents
+DB00695,furosemide,Sulfonamides
+DB00695,furosemide,Sulfonamides and potassium in combination
+DB00695,furosemide,"Sulfonamides, plain"
+DB00697,tizanidine,Other centrally acting agents
+DB00698,nitrofurantoin,Nitrofuran derivatives
+DB00700,eplerenone,Aldosterone antagonists
+DB00701,amprenavir,Protease inhibitors
+DB00704,naltrexone,Centrally acting antiobesity products
+DB00704,naltrexone,Drugs used in alcohol dependence
+DB00704,naltrexone,Natural opium alkaloids
+DB00705,delavirdine,Non-nucleoside reverse transcriptase inhibitors
+DB00706,tamsulosin,Alpha-adrenoreceptor antagonists
+DB00706,tamsulosin,Sulfonamides
+DB00707,Photofrin,Sensitizers used in photodynamic/radiation therapy
+DB00708,sufentanil,Opioid anesthetics
+DB00709,lamivudine,"Antivirals for treatment of HIV infections, combinations"
+DB00709,lamivudine,Nucleoside and nucleotide reverse transcriptase inhibitors
+DB00710,ibandronate,Bisphosphonates
+DB00710,ibandronate,"Bisphosphonates, combinations"
+DB00714,apomorphine,Dopamine agonists
+DB00714,apomorphine,Drugs used in erectile dysfunction
+DB00715,paroxetine,Selective serotonin reuptake inhibitors
+DB00716,nedocromil,"Antiallergic agents, excl. corticosteroids"
+DB00716,nedocromil,Other antiallergics
+DB00720,clodronate,Bisphosphonates
+DB00722,Lisinopril,ACE inhibitors and calcium channel blockers
+DB00722,Lisinopril,ACE inhibitors and diuretics
+DB00722,Lisinopril,"ACE inhibitors, plain"
+DB00722,Lisinopril,"HMG CoA reductase inhibitors, other combinations"
+DB00724,imiquimod,Antivirals
+DB00727,nitroglycerin,Muscle relaxants
+DB00727,nitroglycerin,Organic nitrates
+DB00728,rocuronium,Other quaternary ammonium compounds
+DB00731,nateglinide,"Other blood glucose lowering drugs, excl. insulins"
+DB00734,risperidone,Other antipsychotics
+DB00735,naftifine,Other antifungals for topical use
+DB00736,esomeprazole,Combinations for eradication of Helicobacter pylori
+DB00736,esomeprazole,Propionic acid derivatives
+DB00736,esomeprazole,Proton pump inhibitors
+DB00738,pentamidine,Other agents against leishmaniasis and trypanosomiasis
+DB00740,riluzole,Other nervous system drugs
+DB00741,cortisol,Corticosteroids
+DB00741,cortisol,Corticosteroids acting locally
+DB00741,cortisol,Corticosteroids and antiinfectives in combination
+DB00741,cortisol,Corticosteroids and mydriatics in combination
+DB00741,cortisol,Corticosteroids for local oral treatment
+DB00741,cortisol,"Corticosteroids, plain"
+DB00741,cortisol,"Corticosteroids, weak (group I)"
+DB00741,cortisol,"Corticosteroids, weak, combinations with antibiotics"
+DB00741,cortisol,"Corticosteroids, weak, combinations with antiseptics"
+DB00741,cortisol,"Corticosteroids, weak, other combinations"
+DB00741,cortisol,Corticosteroids/antiinfectives/mydriatics in combination
+DB00741,cortisol,Glucocorticoids
+DB00742,mannitol,Mucolytics
+DB00742,mannitol,Osmotically acting laxatives
+DB00742,mannitol,Other diagnostic agents
+DB00742,mannitol,Other irrigating solutions
+DB00742,mannitol,Solutions producing osmotic diuresis
+DB00743,gadobenate,Paramagnetic contrast media
+DB00745,modafinil,Centrally acting sympathomimetics
+DB00746,deferoxamine,Iron chelating agents
+DB00747,scopolamine,Anticholinergics
+DB00747,scopolamine,Other antiemetics
+DB00747,scopolamine,Other hypnotics and sedatives
+DB00749,etodolac,Acetic acid derivatives and related substances
+DB00751,epinastine,Other antiallergics
+DB00751,epinastine,Other antihistamines for systemic use
+DB00752,tranylcypromine,"Monoamine oxidase inhibitors, non-selective"
+DB00753,isoflurane,Halogenated hydrocarbons
+DB00755,retinoic,Other antineoplastic agents
+DB00755,retinoic,Retinoids for topical use in acne
+DB00757,dolasetron,Serotonin (5HT3) antagonists
+DB00758,clopidogrel,Platelet aggregation inhibitors excl. heparin
+DB00760,meropenem,Carbapenems
+DB00762,irinotecan,Other antineoplastic agents
+DB00764,mometasone,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids
+DB00764,mometasone,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics"
+DB00768,olopatadine,"Antiallergic agents, excl. corticosteroids"
+DB00768,olopatadine,Other antiallergics
+DB00770,PGE1,Drugs used in erectile dysfunction
+DB00770,PGE1,Prostaglandins
+DB00773,etoposide,Podophyllotoxin derivatives
+DB00775,tirofiban,Platelet aggregation inhibitors excl. heparin
+DB00776,oxcarbazepine,Carboxamide derivatives
+DB00783,estradiol,Androgens and estrogens
+DB00783,estradiol,Antiandrogens and estrogens
+DB00783,estradiol,Intravaginal contraceptives
+DB00783,estradiol,"Natural and semisynthetic estrogens, plain"
+DB00783,estradiol,"Progestogens and estrogens, fixed combinations"
+DB00783,estradiol,"Progestogens and estrogens, sequential preparations"
+DB00787,acyclovir,Antivirals
+DB00787,acyclovir,Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+DB00788,naproxen,"Antiinflammatory preparations, non-steroids for topical use"
+DB00788,naproxen,Antiinflammatory products for vaginal administration
+DB00788,naproxen,Propionic acid derivatives
+DB00789,gadopentetate,Paramagnetic contrast media
+DB00790,perindopril,ACE inhibitors and calcium channel blockers
+DB00790,perindopril,ACE inhibitors and diuretics
+DB00790,perindopril,"ACE inhibitors, other combinations"
+DB00790,perindopril,"ACE inhibitors, plain"
+DB00790,perindopril,"HMG CoA reductase inhibitors, other combinations"
+DB00795,sulfasalazine,Aminosalicylic acid and similar agents
+DB00795,sulfasalazine,Sulfonamides
+DB00799,tazarotene,Other antipsoriatics for topical use
+DB00802,alfentanil,Opioid anesthetics
+DB00803,Colimycin,Antibiotics
+DB00803,Colimycin,Polymyxins
+DB00804,dicyclomine,"Synthetic anticholinergics, esters with tertiary amino group"
+DB00806,pentoxifylline,Purine derivatives
+DB00806,pentoxifylline,Xanthines
+DB00808,indapamide,"ACE inhibitors, other combinations"
+DB00808,indapamide,"HMG CoA reductase inhibitors, other combinations"
+DB00808,indapamide,Sulfonamides
+DB00808,indapamide,"Sulfonamides, plain"
+DB00811,ribavirin,Antivirals for treatment of HCV infections
+DB00813,fentanyl,Opioid anesthetics
+DB00813,fentanyl,Phenylpiperidine derivatives
+DB00814,meloxicam,Oxicams
+DB00816,metaproterenol,Non-selective beta-adrenoreceptor agonists
+DB00820,tadalafil,Alpha-adrenoreceptor antagonists
+DB00820,tadalafil,Antihypertensives for pulmonary arterial hypertension
+DB00820,tadalafil,Drugs used in erectile dysfunction
+DB00828,fosfomycin,Other antibacterials
+DB00829,diazepam,Benzodiazepine derivatives
+DB00833,cefaclor,Second-generation cephalosporins
+DB00834,mifepristone,Progesterone receptor modulators
+DB00836,loperamide,Antipropulsives
+DB00843,donepezil,Anticholinesterases
+DB00844,nalbuphine,Morphinan derivatives
+DB00846,flurandrenolone,"Corticosteroids, potent (group III)"
+DB00846,flurandrenolone,"Corticosteroids, potent, combinations with antibiotics"
+DB00847,cysteamine,Amino acids and derivatives
+DB00847,cysteamine,Other ophthalmologicals
+DB00851,dacarbazine,Other alkylating agents
+DB00853,temozolomide,Other alkylating agents
+DB00855,5-aminolevulinic,Sensitizers used in photodynamic/radiation therapy
+DB00857,terbinafine,Antifungals for systemic use
+DB00857,terbinafine,Other antifungals for topical use
+DB00859,D-penicillamine,Penicillamine and similar agents
+DB00861,diflunisal,Salicylic acid and derivatives
+DB00862,vardenafil,Drugs used in erectile dysfunction
+DB00863,ranitidine,H2-receptor antagonists
+DB00864,tacrolimus,"Agents for dermatitis, excluding corticosteroids"
+DB00864,tacrolimus,Calcineurin inhibitors
+DB00869,dorzolamide,Carbonic anhydrase inhibitors
+DB00869,dorzolamide,Sulfonamides
+DB00871,terbutaline,Selective beta-2-adrenoreceptor agonists
+DB00872,conivaptan,Vasopressin antagonists
+DB00873,loteprednol,"Corticosteroids, plain"
+DB00876,eprosartan,Angiotensin II receptor blockers (ARBs) and diuretics
+DB00876,eprosartan,"Angiotensin II receptor blockers (ARBs), plain"
+DB00877,rapamycin,Other ophthalmologicals
+DB00877,rapamycin,Selective immunosuppressants
+DB00878,chlorhexidine,Antiinfectives
+DB00878,chlorhexidine,Antiinfectives and antiseptics for local oral treatment
+DB00878,chlorhexidine,Antiseptics
+DB00878,chlorhexidine,Biguanides and amidines
+DB00878,chlorhexidine,Medicated dressings with antiinfectives
+DB00878,chlorhexidine,Other antiinfectives
+DB00879,emtricitabine,"Antivirals for treatment of HIV infections, combinations"
+DB00879,emtricitabine,Nucleoside and nucleotide reverse transcriptase inhibitors
+DB00881,quinapril,ACE inhibitors and diuretics
+DB00881,quinapril,"ACE inhibitors, plain"
+DB00882,clomiphene,"Ovulation stimulants, synthetic"
+DB00884,risedronate,Bisphosphonates
+DB00884,risedronate,"Bisphosphonates, combinations"
+DB00887,bumetanide,High-ceiling diuretics and potassium-sparing agents
+DB00887,bumetanide,Sulfonamides
+DB00887,bumetanide,Sulfonamides and potassium in combination
+DB00887,bumetanide,"Sulfonamides, plain"
+DB00889,granisetron,Serotonin (5HT3) antagonists
+DB00897,triazolam,Benzodiazepine derivatives
+DB00899,remifentanil,Opioid anesthetics
+DB00900,didanosine,Nucleoside and nucleotide reverse transcriptase inhibitors
+DB00904,ondansetron,Serotonin (5HT3) antagonists
+DB00905,bimatoprost,Prostaglandin analogues
+DB00906,tiagabine,Fatty acid derivatives
+DB00908,quinidine,"Antiarrhythmics, class Ia"
+DB00909,zonisamide,Other antiepileptics
+DB00909,zonisamide,Sulfonamides
+DB00910,paricalcitol,Other anti-parathyroid agents
+DB00911,tinidazole,Combinations for eradication of Helicobacter pylori
+DB00911,tinidazole,Combinations of antibacterials
+DB00911,tinidazole,Imidazole derivatives
+DB00911,tinidazole,Nitroimidazole derivatives
+DB00912,repaglinide,Combinations of oral blood glucose lowering drugs
+DB00912,repaglinide,"Other blood glucose lowering drugs, excl. insulins"
+DB00915,amantadine,Adamantane derivatives
+DB00916,metronidazole,Antiinfectives and antiseptics for local oral treatment
+DB00916,metronidazole,Combinations for eradication of Helicobacter pylori
+DB00916,metronidazole,Combinations of antibacterials
+DB00916,metronidazole,Imidazole derivatives
+DB00916,metronidazole,Nitroimidazole derivatives
+DB00916,metronidazole,Other chemotherapeutics
+DB00917,PGE2,Prostaglandins
+DB00918,almotriptan,Selective serotonin (5HT1) agonists
+DB00921,buprenorphine,Drugs used in opioid dependence
+DB00921,buprenorphine,Oripavine derivatives
+DB00922,levosimendan,Other cardiac stimulants
+DB00924,cyclobenzaprine,Other centrally acting agents
+DB00927,famotidine,H2-receptor antagonists
+DB00928,5-azacytidine,Pyrimidine analogues
+DB00929,misoprostol,Propionic acid derivatives
+DB00929,misoprostol,Prostaglandins
+DB00930,colesevelam,Bile acid sequestrants
+DB00932,tipranavir,Protease inhibitors
+DB00934,maprotiline,Non-selective monoamine reuptake inhibitors
+DB00938,salmeterol,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics"
+DB00938,salmeterol,Selective beta-2-adrenoreceptor agonists
+DB00939,meclofenamate,"Antiinflammatory preparations, non-steroids for topical use"
+DB00939,meclofenamate,Fenamates
+DB00947,ICI,Anti-estrogens
+DB00949,felbamate,Other antiepileptics
+DB00950,fexofenadine,Other antihistamines for systemic use
+DB00952,naratriptan,Selective serotonin (5HT1) agonists
+DB00953,rizatriptan,Selective serotonin (5HT1) agonists
+DB00953,MK-462,Selective serotonin (5HT1) agonists
+DB00956,hydrocodone,Opium alkaloids and derivatives
+DB00958,carboplatin,Platinum compounds
+DB00960,pindolol,"Beta blocking agents, non-selective"
+DB00960,pindolol,"Beta blocking agents, non-selective, and other diuretics"
+DB00962,zaleplon,Benzodiazepine related drugs
+DB00963,bromfenac,"Antiinflammatory agents, non-steroids"
+DB00964,apraclonidine,Sympathomimetics in glaucoma therapy
+DB00966,telmisartan,Angiotensin II receptor blockers (ARBs) and calcium channel blockers
+DB00966,telmisartan,Angiotensin II receptor blockers (ARBs) and diuretics
+DB00966,telmisartan,"Angiotensin II receptor blockers (ARBs), plain"
+DB00967,desloratadine,Other antihistamines for systemic use
+DB00969,alosetron,Serotonin receptor antagonists
+DB00970,actinomycin,Actinomycines
+DB00972,azelastine,"Antiallergic agents, excl. corticosteroids"
+DB00972,azelastine,Other antiallergics
+DB00972,azelastine,Other antihistamines for systemic use
+DB00973,ezetimibe,HMG CoA reductase inhibitors in combination with other lipid modifying agents
+DB00973,ezetimibe,Other lipid modifying agents
+DB00975,dipyridamole,Platelet aggregation inhibitors excl. heparin
+DB00976,telithromycin,Macrolides
+DB00978,lomefloxacin,Fluoroquinolones
+DB00980,ramelteon,Melatonin receptor agonists
+DB00982,retinoic,Retinoids for topical use in acne
+DB00982,retinoic,Retinoids for treatment of acne
+DB00983,formoterol,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids
+DB00983,formoterol,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics"
+DB00983,formoterol,Selective beta-2-adrenoreceptor agonists
+DB00986,glycopyrrolate,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids
+DB00986,glycopyrrolate,Anticholinergics
+DB00986,glycopyrrolate,Antihidrotics
+DB00986,glycopyrrolate,Synthetic anticholinergic agents in combination with psycholeptics
+DB00986,glycopyrrolate,"Synthetic anticholinergics, quaternary ammonium compounds"
+DB00987,cytarabine,Combinations of antineoplastic agents
+DB00987,cytarabine,Pyrimidine analogues
+DB00989,rivastigmine,Anticholinesterases
+DB00990,exemestane,Aromatase inhibitors
+DB00992,methyl,Sensitizers used in photodynamic/radiation therapy
+DB00993,azathioprine,Other immunosuppressants
+DB00995,auranofin,Gold preparations
+DB00996,gabapentin,Other antiepileptics
+DB00997,doxorubicin,Anthracyclines and related substances
+DB00998,frovatriptan,Selective serotonin (5HT1) agonists
+DB00999,hydrochlorothiazide,"ACE inhibitors, other combinations"
+DB00999,hydrochlorothiazide,"Angiotensin II receptor blockers (ARBs), other combinations"
+DB00999,hydrochlorothiazide,Low-ceiling diuretics and potassium-sparing agents
+DB00999,hydrochlorothiazide,Renin-inhibitors
+DB00999,hydrochlorothiazide,Sulfonamides
+DB00999,hydrochlorothiazide,Thiazides and potassium in combination
+DB00999,hydrochlorothiazide,"Thiazides, combinations with other drugs"
+DB00999,hydrochlorothiazide,"Thiazides, plain"
+DB01001,salbutamol,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids
+DB01001,salbutamol,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics"
+DB01001,salbutamol,Selective beta-2-adrenoreceptor agonists
+DB01003,sodium,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics"
+DB01003,sodium,"Agents for dermatitis, excluding corticosteroids"
+DB01003,sodium,"Antiallergic agents, excl. corticosteroids"
+DB01003,sodium,Other antiallergics
+DB01004,ganciclovir,Antivirals
+DB01004,ganciclovir,Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+DB01005,hydroxyurea,Other antineoplastic agents
+DB01006,letrozole,Aromatase inhibitors
+DB01008,busulfan,Alkyl sulfonates
+DB01009,ketoprofen,"Antiinflammatory preparations, non-steroids for topical use"
+DB01009,ketoprofen,Propionic acid derivatives
+DB01011,metyrapone,Tests for pituitary function
+DB01012,cinacalcet,Other anti-parathyroid agents
+DB01014,balsalazide,Aminosalicylic acid and similar agents
+DB01015,trimethoprim-sulfamethoxazole,Combinations of drugs for treatment of tuberculosis
+DB01015,trimethoprim-sulfamethoxazole,"Combinations of sulfonamides and trimethoprim, incl. derivatives"
+DB01015,trimethoprim-sulfamethoxazole,Intermediate-acting sulfonamides
+DB01015,trimethoprim-sulfamethoxazole,Sulfonamides
+DB01017,minocycline,Antiinfectives and antiseptics for local oral treatment
+DB01017,minocycline,Tetracyclines
+DB01018,guanfacine,Imidazoline receptor agonists
+DB01019,bethanechol,Choline esters
+DB01020,isosorbide-5-mononitrate,Organic nitrates
+DB01022,vitamin,Vitamin K
+DB01023,felodipine,ACE inhibitors and calcium channel blockers
+DB01023,felodipine,Beta blocking agents and calcium channel blockers
+DB01023,felodipine,Dihydropyridine derivatives
+DB01024,mycophenolate,Selective immunosuppressants
+DB01024,mycophenolic,Selective immunosuppressants
+DB01025,amlexanox,Other agents for local oral treatment
+DB01025,amlexanox,Other systemic drugs for obstructive airway diseases
+DB01026,ketoconazole,Imidazole and triazole derivatives
+DB01026,ketoconazole,Imidazole derivatives
+DB01029,irbesartan,Angiotensin II receptor blockers (ARBs) and calcium channel blockers
+DB01029,irbesartan-hydrochlorothiazide,Angiotensin II receptor blockers (ARBs) and calcium channel blockers
+DB01029,irbesartan,Angiotensin II receptor blockers (ARBs) and diuretics
+DB01029,irbesartan-hydrochlorothiazide,Angiotensin II receptor blockers (ARBs) and diuretics
+DB01029,irbesartan,"Angiotensin II receptor blockers (ARBs), other combinations"
+DB01029,irbesartan-hydrochlorothiazide,"Angiotensin II receptor blockers (ARBs), other combinations"
+DB01029,irbesartan,"Angiotensin II receptor blockers (ARBs), plain"
+DB01029,irbesartan-hydrochlorothiazide,"Angiotensin II receptor blockers (ARBs), plain"
+DB01030,topotecan,Other antineoplastic agents
+DB01033,6-mercaptopurine,Purine analogues
+DB01033,6-mercaptopurine,Xanthines
+DB01036,tolterodine,Drugs for urinary frequency and incontinence
+DB01037,deprenyl,Monoamine oxidase B inhibitors
+DB01039,fenofibrate,Fibrates
+DB01039,fenofibrate,HMG CoA reductase inhibitors in combination with other lipid modifying agents
+DB01041,thalidomide,Other immunosuppressants
+DB01042,melphalan,Nitrogen mustard analogues
+DB01043,memantine,Anticholinesterases
+DB01043,memantine,Other anti-dementia drugs
+DB01044,gatifloxacin,Fluoroquinolones
+DB01046,lubiprostone,Other drugs for constipation
+DB01047,fluocinonide,Corticosteroids
+DB01047,fluocinonide,"Corticosteroids, potent (group III)"
+DB01047,fluocinonide,"Corticosteroids, potent, combinations with antibiotics"
+DB01048,abacavir,"Antivirals for treatment of HIV infections, combinations"
+DB01048,abacavir,Nucleoside and nucleotide reverse transcriptase inhibitors
+DB01050,ibuprofen,"Antiinflammatory preparations, non-steroids for topical use"
+DB01050,ibuprofen,Antiinflammatory products for vaginal administration
+DB01050,ibuprofen,Opioids in combination with non-opioid analgesics
+DB01050,ibuprofen,Other cardiac preparations
+DB01050,ibuprofen,Other throat preparations
+DB01050,ibuprofen,Propionic acid derivatives
+DB01058,praziquantel,Quinoline derivatives and related substances
+DB01059,norfloxacin,Combinations of antibacterials
+DB01059,norfloxacin,Fluoroquinolones
+DB01060,amoxicillin,Combinations for eradication of Helicobacter pylori
+DB01060,amoxicillin,"Combinations of penicillins, incl. beta-lactamase inhibitors"
+DB01060,amoxicillin,Penicillins with extended spectrum
+DB01062,oxybutynin,Drugs for urinary frequency and incontinence
+DB01066,cefditoren,Third-generation cephalosporins
+DB01067,glipizide,Sulfonylureas
+DB01068,clonazepam,Benzodiazepine derivatives
+DB01072,atazanavir,"Antivirals for treatment of HIV infections, combinations"
+DB01072,atazanavir,Protease inhibitors
+DB01073,fludarabine,Purine analogues
+DB01073,FAMP,Purine analogues
+DB01076,atorvastatin,HMG CoA reductase inhibitors
+DB01076,atorvastatin,HMG CoA reductase inhibitors in combination with other lipid modifying agents
+DB01076,atorvastatin,"HMG CoA reductase inhibitors, other combinations"
+DB01077,etidronate,Bisphosphonates
+DB01077,etidronate,"Bisphosphonates, combinations"
+DB01079,tegaserod,Other drugs for constipation
+DB01080,vigabatrin,Fatty acid derivatives
+DB01082,streptomycin,Antibiotics
+DB01082,streptomycin,Combinations of drugs for treatment of tuberculosis
+DB01082,streptomycin,Streptomycins
+DB01083,orlistat,Peripherally acting antiobesity products
+DB01084,emedastine,Other antiallergics
+DB01085,pilocarpine,Other parasympathomimetics
+DB01085,pilocarpine,Parasympathomimetics
+DB01088,iloprost,Platelet aggregation inhibitors excl. heparin
+DB01095,fluvastatin,HMG CoA reductase inhibitors
+DB01097,leflunomide,Selective immunosuppressants
+DB01098,rosuvastatin,Dipeptidyl peptidase 4 (DPP-4) inhibitors
+DB01098,rosuvastatin,HMG CoA reductase inhibitors
+DB01098,rosuvastatin,HMG CoA reductase inhibitors in combination with other lipid modifying agents
+DB01098,rosuvastatin,"HMG CoA reductase inhibitors, other combinations"
+DB01098,rosuvastatin,Sulfonamides
+DB01100,pimozide,Diphenylbutylpiperidine derivatives
+DB01101,capecitabine,Pyrimidine analogues
+DB01104,sertraline,Selective serotonin reuptake inhibitors
+DB01105,sibutramine,Centrally acting antiobesity products
+DB01106,levocabastine,"Antiallergic agents, excl. corticosteroids"
+DB01106,levocabastine,Other antiallergics
+DB01109,heparin,Heparin group
+DB01109,heparin,Heparins or heparinoids for topical use
+DB01109,heparin,Other ophthalmologicals
+DB01110,miconazole,Antiinfectives
+DB01110,miconazole,Antiinfectives and antiseptics for local oral treatment
+DB01110,miconazole,Imidazole and triazole derivatives
+DB01110,miconazole,Imidazole derivatives
+DB01112,cefuroxime,Antibiotics
+DB01112,cefuroxime,Combinations of antibacterials
+DB01112,cefuroxime,Second-generation cephalosporins
+DB01115,nifedipine,Beta blocking agents and calcium channel blockers
+DB01115,nifedipine,Calcium channel blockers and diuretics
+DB01115,nifedipine,Dihydropyridine derivatives
+DB01117,atovaquone,Other agents against amoebiasis and other protozoal diseases
+DB01118,amiodarone,"Antiarrhythmics, class III"
+DB01120,gliclazide,Sulfonylureas
+DB01126,dutasteride,Alpha-adrenoreceptor antagonists
+DB01126,dutasteride,Testosterone-5-alpha reductase inhibitors
+DB01128,bicalutamide,Anti-androgens
+DB01128,bicalutamide,Gonadotropin releasing hormone analogues
+DB01129,rabeprazole,"Antiinflammatory preparations, non-steroids for topical use"
+DB01129,rabeprazole,Butylpyrazolidines
+DB01129,rabeprazole,Combinations for eradication of Helicobacter pylori
+DB01129,rabeprazole,Proton pump inhibitors
+DB01131,proguanil,Biguanides
+DB01132,pioglitazone,Combinations of oral blood glucose lowering drugs
+DB01132,pioglitazone,Thiazolidinediones
+DB01136,carvedilol,Alpha and beta blocking agents
+DB01136,carvedilol,"Beta blocking agents, other combinations"
+DB01141,FK463,Other antimycotics for systemic use
+DB01142,doxepin,Non-selective monoamine reuptake inhibitors
+DB01142,doxepin,Other antipruritics
+DB01149,nefazodone,Other antidepressants
+DB01150,cefprozil,Second-generation cephalosporins
+DB01153,sertaconazole,Imidazole and triazole derivatives
+DB01153,sertaconazole,Imidazole derivatives
+DB01155,gemifloxacin,Fluoroquinolones
+DB01156,bupropion,Centrally acting antiobesity products
+DB01156,bupropion,Other antidepressants
+DB01157,trimetrexate,Other agents against amoebiasis and other protozoal diseases
+DB01162,terazosin,Alpha-adrenoreceptor antagonists
+DB01165,ofloxacin,Antiinfectives
+DB01165,ofloxacin,Combinations of antibacterials
+DB01165,ofloxacin,Fluoroquinolones
+DB01166,cilostazol,Platelet aggregation inhibitors excl. heparin
+DB01167,itraconazole,Triazole derivatives
+DB01168,procarbazine,Methylhydrazines
+DB01169,arsenic,Other antineoplastic agents
+DB01177,idarubicin,Anthracyclines and related substances
+DB01179,podophyllotoxin,Antivirals
+DB01180,rescinnamine,Rauwolfia alkaloids
+DB01180,rescinnamine,Rauwolfia alkaloids and diuretics in combination
+DB01181,ifosfamide,Nitrogen mustard analogues
+DB01182,propafenone,"Antiarrhythmics, class Ic"
+DB01184,domperidone,Propulsives
+DB01186,pergolide,Dopamine agonists
+DB01188,ciclopirox,Other antifungals for topical use
+DB01188,ciclopirox,Other antiinfectives and antiseptics
+DB01189,desflurane,Halogenated hydrocarbons
+DB01190,clindamycin,Antibiotics
+DB01190,clindamycin,Antiinfectives for treatment of acne
+DB01190,clindamycin,Lincosamides
+DB01193,acebutolol,"Beta blocking agents, selective"
+DB01193,acebutolol,"Beta blocking agents, selective, and thiazides"
+DB01194,brinzolamide,Carbonic anhydrase inhibitors
+DB01194,brinzolamide,Sulfonamides
+DB01195,flecainide,"Antiarrhythmics, class Ic"
+DB01196,estramustine,Other antineoplastic agents
+DB01197,captopril,ACE inhibitors and diuretics
+DB01197,captopril,"ACE inhibitors, plain"
+DB01198,zopiclone,Benzodiazepine related drugs
+DB01200,bromocriptine,Dopamine agonists
+DB01200,bromocriptine,Prolactine inhibitors
+DB01202,levetiracetam,Other antiepileptics
+DB01203,nadolol,"Beta blocking agents, non-selective"
+DB01203,nadolol,"Beta blocking agents, non-selective, and thiazides"
+DB01204,mitoxantrone,Anthracyclines and related substances
+DB01205,flumazenil,Antidotes
+DB01208,sparfloxacin,Fluoroquinolones
+DB01211,clarithromycin,Combinations for eradication of Helicobacter pylori
+DB01211,clarithromycin,Macrolides
+DB01212,ceftriaxone,Third-generation cephalosporins
+DB01213,4-methylpyrazole,Antidotes
+DB01215,estazolam,Benzodiazepine derivatives
+DB01216,finasteride,Alpha-adrenoreceptor antagonists
+DB01216,finasteride,Other dermatologicals
+DB01216,finasteride,Testosterone-5-alpha reductase inhibitors
+DB01217,anastrozole,Aromatase inhibitors
+DB01218,halofantrine,Other antimalarials
+DB01219,dantrolene,Dantrolene and derivatives
+DB01220,rifaximin,Antibiotics
+DB01220,rifaximin,Other antibiotics for topical use
+DB01222,budesonide,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids
+DB01222,budesonide,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics"
+DB01222,budesonide,Corticosteroids
+DB01222,budesonide,Corticosteroids acting locally
+DB01222,budesonide,"Corticosteroids, potent (group III)"
+DB01222,budesonide,Glucocorticoids
+DB01223,aminophylline,Xanthines
+DB01223,aminophylline,Xanthines and adrenergics
+DB01224,quetiapine,"Diazepines, oxazepines, thiazepines and oxepines"
+DB01225,LMWH,Heparin group
+DB01226,mivacurium,Other quaternary ammonium compounds
+DB01229,paclitaxel,Taxanes
+DB01232,saquinavir,Protease inhibitors
+DB01233,metoclopramide,Propulsives
+DB01234,dexamethasone,Corticosteroids
+DB01234,dexamethasone,Corticosteroids and antiinfectives in combination
+DB01234,dexamethasone,Corticosteroids for local oral treatment
+DB01234,dexamethasone,"Corticosteroids, combinations for treatment of acne"
+DB01234,dexamethasone,"Corticosteroids, moderately potent (group II)"
+DB01234,dexamethasone,"Corticosteroids, moderately potent, combinations with antibiotics"
+DB01234,dexamethasone,"Corticosteroids, moderately potent, other combinations"
+DB01234,dexamethasone,"Corticosteroids, plain"
+DB01234,dexamethasone,Corticosteroids/antiinfectives/mydriatics in combination
+DB01234,dexamethasone,Glucocorticoids
+DB01236,sevoflurane,Halogenated hydrocarbons
+DB01238,aripiprazole,Other antipsychotics
+DB01240,prostacyclin,Platelet aggregation inhibitors excl. heparin
+DB01241,gemfibrozil,Fibrates
+DB01242,clomipramine,Non-selective monoamine reuptake inhibitors
+DB01244,bepridil,Phenylalkylamine derivatives
+DB01247,isocarboxazid,"Monoamine oxidase inhibitors, non-selective"
+DB01248,docetaxel,Taxanes
+DB01249,iodixanol,"Watersoluble, nephrotropic, low osmolar X-ray contrast media"
+DB01250,olsalazine,Aminosalicylic acid and similar agents
+DB01254,dasatinib,Protein kinase inhibitors
+DB01255,lisdexamfetamine,Centrally acting sympathomimetics
+DB01256,retapamulin,Other antibiotics for topical use
+DB01259,lapatinib,Protein kinase inhibitors
+DB01260,desonide,"Corticosteroids, moderately potent (group II)"
+DB01260,desonide,"Corticosteroids, moderately potent, combinations with antiseptics"
+DB01260,desonide,"Corticosteroids, plain"
+DB01261,sitagliptin,Combinations of oral blood glucose lowering drugs
+DB01261,sitagliptin,Dipeptidyl peptidase 4 (DPP-4) inhibitors
+DB01262,5-aza-2'-deoxycytidine,Pyrimidine analogues
+DB01263,posaconazole,Triazole derivatives
+DB01264,darunavir,"Antivirals for treatment of HIV infections, combinations"
+DB01264,darunavir,Protease inhibitors
+DB01264,darunavir,Sulfonamides
+DB01267,paliperidone,Other antipsychotics
+DB01268,sunitinib,Protein kinase inhibitors
+DB01273,varenicline,Drugs used in nicotine dependence
+DB01275,hydralazine,Hydrazinophthalazine derivatives
+DB01275,hydralazine,Hydrazinophthalazine derivatives and diuretics
+DB01276,exenatide,Glucagon-like peptide-1 (GLP-1) analogues
+DB01278,Symlin,"Other blood glucose lowering drugs, excl. insulins"
+DB01280,nelarabine,Purine analogues
+DB01285,ACTH(1-39,ACTH
+DB01291,pirbuterol,Selective beta-2-adrenoreceptor agonists
+DB01306,NovoLog,"Insulins and analogues for injection, fast-acting"
+DB01306,NovoLog,"Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting"
+DB01307,insulin,"Insulins and analogues for injection, long-acting"
+DB01319,fosamprenavir,Protease inhibitors
+DB01320,fosphenytoin,Hydantoin derivatives
+DB01327,cefazolin,First-generation cephalosporins
+DB01337,pancuronium,Other quaternary ammonium compounds
+DB01340,cilazapril,ACE inhibitors and diuretics
+DB01340,cilazapril,"ACE inhibitors, plain"
+DB01359,penbutolol,"Beta blocking agents, non-selective"
+DB01359,penbutolol,"Beta blocking agents, non-selective, and other diuretics"
+DB01362,iohexol,"Watersoluble, nephrotropic, low osmolar X-ray contrast media"
+DB01367,rasagiline,Monoamine oxidase B inhibitors
+DB01373,calcium,"Ascorbic acid (vitamin C), combinations"
+DB01373,calcium,"Bisphosphonates, combinations"
+DB01373,calcium,Multivitamins with minerals
+DB01393,bezafibrate,Fibrates
+DB01394,colchicine,Preparations with no effect on uric acid metabolism
+DB01400,neostigmine,Anticholinesterases
+DB01400,neostigmine,Parasympathomimetics
+DB01406,danazol,Antigonadotropins and similar agents
+DB01409,tiotropium,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids
+DB01409,tiotropium,Anticholinergics
+DB01410,ciclesonide,Corticosteroids
+DB01410,ciclesonide,Glucocorticoids
+DB01413,cefepime,Combinations of antibacterials
+DB01413,cefepime,Fourth-generation cephalosporins
+DB01415,cephem,Third-generation cephalosporins
+DB01416,cefpodoxime,Third-generation cephalosporins
+DB01432,colestyramine,Bile acid sequestrants
+DB01544,flunitrazepam,Benzodiazepine derivatives
+DB01551,dihydrocodeine,Natural opium alkaloids
+DB01551,dihydrocodeine,Opioids in combination with non-opioid analgesics
+DB01558,bromazepam,Benzodiazepine derivatives
+DB01586,UDCA,Bile acids and derivatives
+DB01589,quazepam,Benzodiazepine derivatives
+DB01590,everolimus,Protein kinase inhibitors
+DB01590,everolimus,Selective immunosuppressants
+DB01591,solifenacin,Alpha-adrenoreceptor antagonists
+DB01591,solifenacin,Drugs for urinary frequency and incontinence
+DB01592,iron,Iron in other combinations
+DB01592,Fe(III,Iron in other combinations
+DB01592,iron,Multivitamins with minerals
+DB01592,Fe(III,Multivitamins with minerals
+DB01600,tiaprofenic,Propionic acid derivatives
+DB01609,deferasirox,Iron chelating agents
+DB01610,valganciclovir,Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+DB01628,etoricoxib,Coxibs
+DB01656,roflumilast,Other systemic drugs for obstructive airway diseases
+DB02300,calcipotriol,Other antipsoriatics for topical use
+DB02638,Terlipressin,Vasopressin and analogues
+DB02703,fusidic,Antibiotics
+DB02703,fusidic,Medicated dressings with antiinfectives
+DB02703,fusidic,Other antibiotics for topical use
+DB02703,fusidic,Steroid antibacterials
+DB03404,hemin,Heme products
+DB04106,fotemustine,Nitrosoureas
+DB04272,citric,Acid preparations
+DB04572,thiotepa,Ethylene imines
+DB04835,maraviroc,Other antivirals
+DB04839,cyproterone,Antiandrogens and estrogens
+DB04839,cyproterone,"Antiandrogens, plain"
+DB04844,tetrabenazine,Other nervous system drugs
+DB04845,ixabepilone,Other cytotoxic antibiotics
+DB04854,febuxostat,Preparations inhibiting uric acid production
+DB04855,dronedarone,"Antiarrhythmics, class III"
+DB04861,nebivolol,"Angiotensin II receptor blockers (ARBs), other combinations"
+DB04861,nebivolol,Beta blocking agents and calcium channel blockers
+DB04861,nebivolol,"Beta blocking agents, selective"
+DB04861,nebivolol,"Beta blocking agents, selective, and thiazides"
+DB04868,nilotinib,Protein kinase inhibitors
+DB04871,lorcaserin,Centrally acting antiobesity products
+DB04876,vildagliptin,Combinations of oral blood glucose lowering drugs
+DB04876,vildagliptin,Dipeptidyl peptidase 4 (DPP-4) inhibitors
+DB04895,pegaptanib,Antineovascularisation agents
+DB04896,milnacipran,Other antidepressants
+DB04899,nesiritide,Other vasodilators used in cardiac diseases
+DB04911,Nuvocid,Glycopeptide antibacterials
+DB04920,clevidipine,Dihydropyridine derivatives
+DB04938,ospemifene,Selective estrogen receptor modulators
+DB04946,iloperidone,Other antipsychotics
+DB04953,retigabine,Other antiepileptics
+DB05013,PEP005,Other chemotherapeutics
+DB05015,belinostat,Other antineoplastic agents
+DB05039,indacaterol,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids
+DB05039,indacaterol,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics"
+DB05039,indacaterol,Selective beta-2-adrenoreceptor agonists
+DB05109,trabectedin,Other plant alkaloids and natural products
+DB05259,copolymer,Other immunostimulants
+DB05259,Glat,Other immunostimulants
+DB05271,rotigotine,Dopamine agonists
+DB05294,vandetanib,Protein kinase inhibitors
+DB05311,ecallantide,Drugs used in hereditary angioedema
+DB05521,d-telaprevir,Antivirals for treatment of HCV infections
+DB05528,mipomersen,Other lipid modifying agents
+DB05676,apremilast,Selective immunosuppressants
+DB05679,ustekinumab,Interleukin inhibitors
+DB05812,abiraterone,Other hormone antagonists and related agents
+DB06148,mianserin,Other antidepressants
+DB06151,N-acetylcysteine,Antidotes
+DB06151,N-acetylcysteine,Mucolytics
+DB06151,N-acetylcysteine,Other ophthalmologicals
+DB06155,rimonabant,Other antiobesity drugs
+DB06176,Romidepsin,Other antineoplastic agents
+DB06196,Hoe,Drugs used in hereditary angioedema
+DB06201,rufinamide,Carboxamide derivatives
+DB06202,lasofoxifene,Selective estrogen receptor modulators
+DB06203,alogliptin,Combinations of oral blood glucose lowering drugs
+DB06203,alogliptin,Dipeptidyl peptidase 4 (DPP-4) inhibitors
+DB06204,tapentadol,Other opioids
+DB06207,silodosin,Alpha-adrenoreceptor antagonists
+DB06209,prasugrel,Platelet aggregation inhibitors excl. heparin
+DB06210,eltrombopag,Other systemic hemostatics
+DB06210,Promacta,Other systemic hemostatics
+DB06211,doripenem,Carbapenems
+DB06212,tolvaptan,Vasopressin antagonists
+DB06213,regadenoson,Other cardiac preparations
+DB06216,asenapine,"Diazepines, oxazepines, thiazepines and oxepines"
+DB06217,vernakalant,"Other antiarrhythmics, class I and III"
+DB06218,lacosamide,Other antiepileptics
+DB06219,dalbavancin,Glycopeptide antibacterials
+DB06228,rivaroxaban,Direct factor Xa inhibitors
+DB06230,nalmefene,Drugs used in alcohol dependence
+DB06237,avanafil,Drugs used in erectile dysfunction
+DB06243,DFMO,Other agents against leishmaniasis and trypanosomiasis
+DB06243,DFMO,Other dermatologicals
+DB06261,hexaminolevulinate,Other diagnostic agents
+DB06262,L-threo-DOPS,Adrenergic and dopaminergic agents
+DB06268,sitaxsentan,Antihypertensives for pulmonary arterial hypertension
+DB06283,ziconotide,Other analgesics and antipyretics
+DB06285,Forteo,Parathyroid hormones and analogues
+DB06287,temsirolimus,Protein kinase inhibitors
+DB06288,amisulpride,Benzamides
+DB06290,TMC435,Antivirals for treatment of HCV infections
+DB06290,TMC435,Sulfonamides
+DB06292,dapagliflozin,Combinations of oral blood glucose lowering drugs
+DB06292,dapagliflozin,Sodium-glucose co-transporter 2 (SGLT2) inhibitors
+DB06335,Saxagliptin,Combinations of oral blood glucose lowering drugs
+DB06335,Saxagliptin,Dipeptidyl peptidase 4 (DPP-4) inhibitors
+DB06401,bazedoxifene,"Estrogens, combinations with other drugs"
+DB06401,bazedoxifene,Selective estrogen receptor modulators
+DB06402,telavancin,Glycopeptide antibacterials
+DB06403,ambrisentan,Antihypertensives for pulmonary arterial hypertension
+DB06410,doxercalciferol,Other anti-parathyroid agents
+DB06414,etravirine,Non-nucleoside reverse transcriptase inhibitors
+DB06480,prucalopride,Other drugs for constipation
+DB06589,pazopanib,Protein kinase inhibitors
+DB06590,ceftaroline,Other cephalosporins and penems
+DB06594,agomelatine,Other antidepressants
+DB06605,apixaban,Direct factor Xa inhibitors
+DB06616,bosutinib,Protein kinase inhibitors
+DB06626,axitinib,Protein kinase inhibitors
+DB06637,4-AP,Other nervous system drugs
+DB06650,ofatumumab,Monoclonal antibodies
+DB06655,liraglutide,Glucagon-like peptide-1 (GLP-1) analogues
+DB06655,liraglutide,"Insulins and analogues for injection, long-acting"
+DB06663,SOM230,Somatostatin and analogues
+DB06663,Signifor,Somatostatin and analogues
+DB06684,vilazodone,Other antidepressants
+DB06698,betahistine,Antivertigo preparations
+DB06699,degarelix,Other hormone antagonists and related agents
+DB06700,desvenlafaxine,Other antidepressants
+DB06702,fesoterodine,Drugs for urinary frequency and incontinence
+DB06703,gadobutrol,Paramagnetic contrast media
+DB06704,metaiodobenzylguanidine,Iodine (131I) compounds
+DB06704,metaiodobenzylguanidine,Other diagnostic radiopharmaceuticals for tumour detection
+DB06711,naphazoline,Sympathomimetics used as decongestants
+DB06711,naphazoline,"Sympathomimetics, combinations excl. corticosteroids"
+DB06711,naphazoline,"Sympathomimetics, plain"
+DB06719,Supremon,Gonadotropin releasing hormone analogues
+DB06756,betaine,Acid preparations
+DB06756,betaine,Amino acids and derivatives
+DB06769,bendamustine,Nitrogen mustard analogues
+DB06772,cabazitaxel,Taxanes
+DB06774,capsaicin,Capsaicin and similar agents
+DB06774,capsaicin,Other local anesthetics
+DB06775,N-carbamylglutamate,Amino acids and derivatives
+DB06779,dalteparin,Heparin group
+DB06785,Org,Anti-gonadotropin-releasing hormones
+DB06788,Histrelin,Gonadotropin releasing hormone analogues
+DB06791,lanreotide,Somatostatin and analogues
+DB06792,lanthanum,Drugs for treatment of hyperkalemia and hyperphosphatemia
+DB06794,lodoxamide,Other antiallergics
+DB06795,mafenide,Sulfonamides
+DB06796,MnDPDP,Paramagnetic contrast media
+DB06800,methylnaltrexone,Peripheral opioid receptor antagonists
+DB06802,nepafenac,"Antiinflammatory agents, non-steroids"
+DB06809,AMD3100,Other immunostimulants
+DB06813,pralatrexate,Folic acid analogues
+DB06817,raltegravir,"Antivirals for treatment of HIV infections, combinations"
+DB06817,raltegravir,Other antivirals
+DB06819,4-PBA,Various alimentary tract and metabolism products
+DB06819,phenylbutyric,Various alimentary tract and metabolism products
+DB06825,Triptorelin,Gonadotropin releasing hormone analogues
+DB06826,unoprostone,Prostaglandin analogues
+DB08815,lurasidone,Indole derivatives
+DB08816,ticagrelor,Platelet aggregation inhibitors excl. heparin
+DB08819,tafluprost,Prostaglandin analogues
+DB08820,ivacaftor,Other respiratory system products
+DB08822,azilsartan,Angiotensin II receptor blockers (ARBs) and diuretics
+DB08822,azilsartan,"Angiotensin II receptor blockers (ARBs), plain"
+DB08824,FP-CIT,Iodine (123I) compounds
+DB08826,deferiprone,Iron chelating agents
+DB08828,vismodegib,Other antineoplastic agents
+DB08860,pitavastatin,HMG CoA reductase inhibitors
+DB08864,rilpivirine,"Antivirals for treatment of HIV infections, combinations"
+DB08864,rilpivirine,Non-nucleoside reverse transcriptase inhibitors
+DB08865,crizotinib,Protein kinase inhibitors
+DB08867,ulipristal,Emergency contraceptives
+DB08867,ulipristal,Progesterone receptor modulators
+DB08868,FTY720,Selective immunosuppressants
+DB08869,tesamorelin,Somatropin and somatropin agonists
+DB08871,eribulin,Other antineoplastic agents
+DB08873,boceprevir,Antivirals for treatment of HCV infections
+DB08874,fidaxomicin,Antibiotics
+DB08875,cabozantinib,Protein kinase inhibitors
+DB08877,ruxolitinib,Protein kinase inhibitors
+DB08880,A77,Selective immunosuppressants
+DB08881,vemurafenib,Protein kinase inhibitors
+DB08881,vemurafenib,Sulfonamides
+DB08882,linagliptin,Combinations of oral blood glucose lowering drugs
+DB08882,linagliptin,Dipeptidyl peptidase 4 (DPP-4) inhibitors
+DB08883,perampanel,Other antiepileptics
+DB08889,Carfilzomib,Other antineoplastic agents
+DB08890,linaclotide,Other drugs for constipation
+DB08893,mirabegron,Drugs for urinary frequency and incontinence
+DB08895,tofacitinib,Selective immunosuppressants
+DB08896,regorafenib,Protein kinase inhibitors
+DB08897,aclidinium,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids
+DB08897,aclidinium,Anticholinergics
+DB08899,MDV3100,Anti-androgens
+DB08900,teduglutide,Various alimentary tract and metabolism products
+DB08901,ponatinib,Protein kinase inhibitors
+DB08903,TMC207,Other drugs for treatment of tuberculosis
+DB08907,canagliflozin,Combinations of oral blood glucose lowering drugs
+DB08907,canagliflozin,Sodium-glucose co-transporter 2 (SGLT2) inhibitors
+DB08910,pomalidomide,Other immunosuppressants
+DB08911,trametinib,Protein kinase inhibitors
+DB08912,dabrafenib,Protein kinase inhibitors
+DB08916,afatinib,Protein kinase inhibitors
+DB08930,dolutegravir,"Antivirals for treatment of HIV infections, combinations"
+DB08930,dolutegravir,Other antivirals
+DB08931,riociguat,Antihypertensives for pulmonary arterial hypertension
+DB08932,macitentan,Antihypertensives for pulmonary arterial hypertension
+DB08933,luliconazole,Imidazole and triazole derivatives
+DB08934,sofosbuvir,Antivirals for treatment of HCV infections
+DB08947,iopamidol,"Watersoluble, nephrotropic, low osmolar X-ray contrast media"
+DB08964,gemeprost,Prostaglandins
+DB09026,aliskiren,"Angiotensin II receptor blockers (ARBs), other combinations"
+DB09026,aliskiren,Renin-inhibitors
+DB09030,vorapaxar,Platelet aggregation inhibitors excl. heparin
+DB09034,suvorexant,Other hypnotics and sedatives
+DB09038,empagliflozin,Combinations of oral blood glucose lowering drugs
+DB09038,empagliflozin,Sodium-glucose co-transporter 2 (SGLT2) inhibitors
+DB09039,eliglustat,Various alimentary tract and metabolism products
+DB09040,efinaconazole,Imidazole and triazole derivatives
+DB09041,AN2690,Other antifungals for topical use
+DB09053,PCI-32765,Protein kinase inhibitors
+DB09059,atosiban,Other gynecologicals
+DB09065,cobicistat,"Antivirals for treatment of HIV infections, combinations"
+DB09065,cobicistat,Other therapeutic products
+DB09068,Lu,Other antidepressants
+DB09071,tasimelteon,Melatonin receptor agonists
+DB09072,hydroxybutyrate,Other general anesthetics
+DB09072,hydroxybutyrate,Other nervous system drugs
+DB09076,umeclidinium,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids
+DB09076,umeclidinium,Anticholinergics
+DB09080,olodaterol,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids
+DB09080,olodaterol,Selective beta-2-adrenoreceptor agonists
+DB09084,benzydamine,"Antiinflammatory preparations, non-steroids for topical use"
+DB09084,benzydamine,Antiinflammatory products for vaginal administration
+DB09084,benzydamine,Other agents for local oral treatment
+DB09084,benzydamine,"Other antiinflammatory and antirheumatic agents, non-steroids"
+DB09084,benzydamine,Other throat preparations
+DB09090,pinaverium,Other drugs for functional gastrointestinal disorders
+DB09096,benzoyl,Peroxides
+DB09101,elvitegravir,"Antivirals for treatment of HIV infections, combinations"
+DB09101,elvitegravir,Other antivirals
+DB09106,hetastarch,Blood substitutes and plasma protein fractions
+DB09110,mesna,Detoxifying agents for antineoplastic treatment
+DB09110,mesna,Mucolytics
+DB09134,ioversol,"Watersoluble, nephrotropic, low osmolar X-ray contrast media"
+DB09149,florbetapir,Other central nervous system diagnostic radiopharmaceuticals
+DB09151,18F-flutemetamol,Other central nervous system diagnostic radiopharmaceuticals
+DB09152,nitrogen,Medical gases
+DB09156,iopromide,"Watersoluble, nephrotropic, low osmolar X-ray contrast media"
+DB09220,nicorandil,Other vasodilators used in cardiac diseases
+DB09242,moxonidine,Imidazoline receptor agonists
+DB09242,moxonidine,Imidazoline receptor agonists in combination with diuretics
+DB09265,Lyxumia,Glucagon-like peptide-1 (GLP-1) analogues
+DB09265,Lyxumia,"Insulins and analogues for injection, long-acting"
+DB09267,strontium,Other drugs affecting bone structure and mineralization
+DB09456,Insulin,"Insulins and analogues for injection, fast-acting"
+DB09456,Insulin,"Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting"
+DB09456,Insulin,"Insulins and analogues for injection, intermediate-acting"
+DB09456,Insulin,"Insulins and analogues for injection, long-acting"
+DB09462,glycerol,Enemas
+DB09462,glycerol,Other drugs for constipation
+DB09487,iotrolan,"Watersoluble, nephrotropic, low osmolar X-ray contrast media"
+DB09532,Vitrum,Tests for pancreatic function
+DB09532,o291,Tests for pancreatic function
+DB11095,Revasc,Direct thrombin inhibitors
+DB11627,hepatitis,"Bacterial and viral vaccines, combined"
+DB11630,mTHPC,Sensitizers used in photodynamic/radiation therapy
+DB11634,colestimide,Drugs for treatment of hyperkalemia and hyperphosphatemia
+DB11635,TPGS,Other plain vitamin preparations
+DB11637,delamanid,Other drugs for treatment of tuberculosis
+DB11641,vinflunine,Vinca alkaloids and analogues
+DB11699,tropisetron,Serotonin (5HT3) antagonists
+DB11750,clobetasol,"Corticosteroids, very potent (group IV)"
+DB11750,clobetasol,"Corticosteroids, very potent, combinations with antibiotics"
+DB12789,prostaglandin,Prostaglandins
+DB13158,clobetasone,Corticosteroids and antiinfectives in combination
+DB13158,clobetasone,"Corticosteroids, moderately potent (group II)"
+DB13158,clobetasone,"Corticosteroids, plain"
+DB13295,atracurium,Other quaternary ammonium compounds
+DB13615,CGP,Other immunostimulants
+DB13867,fluticasone,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics"
+DB13867,fluticasone,Corticosteroids
+DB13867,fluticasone,"Corticosteroids, potent (group III)"
+DB13867,fluticasone,Glucocorticoids
+DB13873,fenofibric,Fibrates
+DB13919,candesartan,Angiotensin II receptor blockers (ARBs) and calcium channel blockers
+DB13919,candesartan,Angiotensin II receptor blockers (ARBs) and diuretics
+DB13919,candesartan,"Angiotensin II receptor blockers (ARBs), other combinations"
+DB13919,candesartan,"Angiotensin II receptor blockers (ARBs), plain"
+DB14500,potassium,Sulfonamides and potassium in combination
+DB14500,potassium,Thiazides and potassium in combination
+DB14569,TR-700,Other antibacterials
+DB14570,17-hydroxyprogesterone,Pregnen (4) derivatives
+DB14570,17-hydroxyprogesterone,"Progestogens and estrogens, fixed combinations"
+DB14575,eslicarbazepine,Carboxamide derivatives

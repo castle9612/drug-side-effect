@@ -1,0 +1,7 @@
+adr_name,base_acc,f1_test_acc,f1_f1_score,f1_auc_score,f1_recall_scaore,f1_confusion_matrix,f1_learning_rate,f1_max_depth,f1_colsample_bytree,f1_lambdal1,auc_test_acc,auc_f1_score,auc_auc_score,auc_recall_scaore,auc_confusion_matrix,auc_learning_rate,auc_max_depth,auc_colsample_bytree,auc_lambdal1,acc_test_acc,acc_f1_score,acc_auc_score,acc_recall_scaore,acc_confusion_matrix,acc_learning_rate,acc_max_depth,acc_colsample_bytree,acc_lambdal1,rs_test_acc,rs_f1_score,rs_auc_score,rs_recall_scaore,rs_confusion_matrix,rs_learning_rate,rs_max_depth,rs_colsample_bytree,rs_lambdal1,total_test_acc,total_f1_score,total_auc_score,total_recall_scaore,total_confusion_matrix,total_learning_rate,total_max_depth,total_colsample_bytree,total_lambdal1
+THROMBOCYTOPENIA,0.5469798657718121,0.55,0.5423728813559322,0.5538720538720538,0.5925925925925926,"[[17 16]
+ [11 16]]",0.0001,3,0.7,0.3,0.6,0.5862068965517241,0.6026936026936027,0.6296296296296297,"[[19 14]
+ [10 17]]",0.8,11,0.7,0.8,0.6,0.5862068965517241,0.6026936026936027,0.6296296296296297,"[[19 14]
+ [10 17]]",0.8,11,0.7,0.8,0.5833333333333334,0.5614035087719298,0.5841750841750841,0.5925925925925926,"[[19 14]
+ [11 16]]",0.001,1,0.3,0.8,0.55,0.5423728813559322,0.5538720538720538,0.5925925925925926,"[[17 16]
+ [11 16]]",0.0001,3,0.7,0.3
